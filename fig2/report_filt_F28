@@ -1,0 +1,440 @@
+  0.01	8	8	U	0	unclassified
+ 99.99	141517	2	R	1	root
+ 99.99	141515	0	R1	131567	  cellular organisms
+ 99.99	141511	0	D	2	    Bacteria
+ 99.98	141494	7	P	1224	      Proteobacteria
+ 99.97	141480	57	C	1236	        Gammaproteobacteria
+ 99.89	141373	46	O	91347	          Enterobacterales
+ 99.84	141292	327	F	543	            Enterobacteriaceae
+ 97.95	138620	6361	G	570	              Klebsiella
+ 86.40	122271	93531	S	573	                Klebsiella pneumoniae
+ 14.61	20677	14245	S1	72407	                  Klebsiella pneumoniae subsp. pneumoniae
+  3.15	4465	4465	S2	1193292	                    Klebsiella pneumoniae subsp. pneumoniae 1084
+  0.58	824	824	S2	272620	                    Klebsiella pneumoniae subsp. pneumoniae MGH 78578
+  0.37	520	520	S2	1308539	                    Klebsiella pneumoniae subsp. pneumoniae ATCC 43816
+  0.20	290	290	S2	1328324	                    Klebsiella pneumoniae subsp. pneumoniae KPNIH27
+  0.14	197	197	S2	1123862	                    Klebsiella pneumoniae subsp. pneumoniae Kp13
+  0.05	68	68	S2	1392499	                    Klebsiella pneumoniae subsp. pneumoniae 1158
+  0.02	29	29	S2	1125630	                    Klebsiella pneumoniae subsp. pneumoniae HS11286
+  0.01	18	18	S2	1225181	                    Klebsiella pneumoniae subsp. pneumoniae KPNIH24
+  0.01	16	16	S2	484021	                    Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044
+  0.00	2	2	S2	1328325	                    Klebsiella pneumoniae subsp. pneumoniae KPR0928
+  0.00	2	2	S2	1406314	                    Klebsiella pneumoniae subsp. pneumoniae PittNDM01
+  0.00	1	1	S2	1094170	                    Klebsiella pneumoniae subsp. pneumoniae KPNIH10
+  4.20	5944	0	S1	39831	                  Klebsiella pneumoniae subsp. rhinoscleromatis
+  4.20	5944	5944	S2	861365	                    Klebsiella pneumoniae subsp. rhinoscleromatis SB3432
+  0.28	391	391	S1	1365186	                  Klebsiella pneumoniae KP-1
+  0.24	340	340	S1	1304922	                  Klebsiella pneumoniae 500_1420
+  0.21	293	293	S1	1049565	                  Klebsiella pneumoniae KCTC 2242
+  0.19	271	271	S1	1244085	                  Klebsiella pneumoniae CG43
+  0.19	270	270	S1	1420012	                  Klebsiella pneumoniae 30660/NJST258_1
+  0.16	225	225	S1	1328373	                  Klebsiella pneumoniae MGH 39
+  0.13	180	180	S1	1392500	                  Klebsiella pneumoniae HK787
+  0.04	54	54	S1	574	                  Klebsiella pneumoniae subsp. ozaenae
+  0.03	43	43	S1	1420013	                  Klebsiella pneumoniae 30684/NJST258_2
+  0.02	32	32	S1	1284804	                  Klebsiella pneumoniae UHKPC07
+  0.01	10	10	S1	1087446	                  Klebsiella pneumoniae FCF1305
+  0.01	10	10	S1	1284798	                  Klebsiella pneumoniae DMC1097
+  2.64	3739	3705	S	1463165	                Klebsiella quasipneumoniae
+  0.01	19	19	S1	1667327	                  Klebsiella quasipneumoniae subsp. quasipneumoniae
+  0.01	15	15	S1	1463164	                  Klebsiella quasipneumoniae subsp. similipneumoniae
+  1.80	2541	2510	S	244366	                Klebsiella variicola
+  0.02	31	31	S1	640131	                  Klebsiella variicola At-22
+  0.73	1029	1029	S	2489010	                Klebsiella africana
+  0.52	739	739	S	2026240	                Klebsiella quasivariicola
+  0.48	681	679	S	548	                Klebsiella aerogenes
+  0.00	2	2	S1	935296	                  Klebsiella aerogenes EA1509E
+  0.41	586	584	S	571	                Klebsiella oxytoca
+  0.00	2	2	S1	1333852	                  Klebsiella oxytoca KONIH1
+  0.19	272	140	G1	2608929	                unclassified Klebsiella
+  0.02	34	34	S	2834819	                  Klebsiella sp. A52
+  0.02	24	24	S	2015795	                  Klebsiella sp. LY
+  0.01	20	20	S	2675711	                  Klebsiella sp. WP3-S18-ESBL-05
+  0.01	18	18	S	2267618	                  Klebsiella sp. P1CD1
+  0.01	15	15	S	2681387	                  Klebsiella sp. STW0522-44
+  0.00	7	7	S	2675726	                  Klebsiella sp. WP8-S18-ESBL-06
+  0.00	4	4	S	2851540	                  Klebsiella sp. PL-2018
+  0.00	3	3	S	2488567	                  Klebsiella sp. FDAARGOS_511
+  0.00	2	2	S	2829836	                  Klebsiella sp. P1927
+  0.00	2	2	S	2787706	                  Klebsiella sp. BDA134-6
+  0.00	2	2	S	2697371	                  Klebsiella sp. MPUS7
+  0.00	1	1	S	2675713	                  Klebsiella sp. WP4-W18-ESBL-05
+  0.19	271	226	S	1134687	                Klebsiella michiganensis
+  0.02	23	23	S1	1308980	                  Klebsiella michiganensis HKOPL1
+  0.01	16	16	S1	1006551	                  Klebsiella michiganensis KCTC 1686
+  0.00	6	6	S1	1191061	                  Klebsiella michiganensis E718
+  0.05	71	71	S	2058152	                Klebsiella grimontii
+  0.04	59	59	S	2153354	                Klebsiella huaxiensis
+  1.20	1695	5	G	561	              Escherichia
+  1.18	1675	1265	S	562	                Escherichia coli
+  0.05	69	69	S1	2603836	                  Escherichia coli O10:H32
+  0.05	64	64	S1	941322	                  Escherichia coli O25b:H4-ST131
+  0.04	51	51	S1	941280	                  Escherichia coli O25b:H4
+  0.03	40	40	S1	2810409	                  Escherichia coli H20
+  0.01	19	19	S1	1412834	                  Escherichia coli FAP1
+  0.01	17	17	S1	2605620	                  Escherichia coli O80:H26
+  0.01	15	15	S1	2810408	                  Escherichia coli O176:H45
+  0.01	11	11	S1	481805	                  Escherichia coli ATCC 8739
+  0.01	10	10	S1	2848143	                  Escherichia coli O85:H1
+  0.01	9	9	S1	2861806	                  Escherichia coli O141:H4
+  0.00	7	7	S1	2778656	                  Escherichia coli O20:H12
+  0.00	7	7	S1	2697517	                  Escherichia coli O84:H7
+  0.00	7	7	S1	1045010	                  Escherichia coli O157
+  0.00	6	6	S1	405955	                  Escherichia coli APEC O1
+  0.00	5	3	S1	83333	                  Escherichia coli K-12
+  0.00	1	1	S2	511145	                    Escherichia coli str. K-12 substr. MG1655
+  0.00	1	1	S2	879462	                    Escherichia coli str. K-12 substr. MG1655star
+  0.00	5	5	S1	941323	                  Escherichia coli VR50
+  0.00	5	5	S1	199310	                  Escherichia coli CFT073
+  0.00	4	4	S1	1050617	                  Escherichia coli UMNF18
+  0.00	4	4	S1	1230480	                  Escherichia coli EC302/04
+  0.00	4	4	S1	2491679	                  Escherichia coli O22:H8
+  0.00	3	2	S1	83334	                  Escherichia coli O157:H7
+  0.00	1	1	S2	1328859	                    Escherichia coli O157:H7 str. SS17
+  0.00	3	3	S1	2773706	                  Escherichia coli O68:H12
+  0.00	3	3	S1	1502658	                  Escherichia coli O2:H6
+  0.00	2	0	S1	1038927	                  Escherichia coli O104:H4
+  0.00	1	1	S2	1048254	                    Escherichia coli O104:H4 str. C227-11
+  0.00	1	1	S2	1133852	                    Escherichia coli O104:H4 str. 2011C-3493
+  0.00	2	2	S1	591946	                  Escherichia coli LF82
+  0.00	2	2	S1	2773704	                  Escherichia coli O15:H12
+  0.00	2	2	S1	696406	                  Escherichia coli UMNK88
+  0.00	2	2	S1	585055	                  Escherichia coli 55989
+  0.00	2	2	S1	1416674	                  Escherichia coli N37139PS
+  0.00	2	0	S1	1055536	                  Escherichia coli O103
+  0.00	2	2	S2	1055540	                    Escherichia coli O103 str. RM8385
+  0.00	2	1	S1	930406	                  Escherichia coli O157:H16
+  0.00	1	1	S2	1446608	                    Escherichia coli O157:H16 str. 98-3133
+  0.00	2	2	S1	340186	                  Escherichia coli E110019
+  0.00	2	2	S1	2048776	                  Escherichia coli O128:H27
+  0.00	2	2	S1	2848145	                  Escherichia coli O170:H18
+  0.00	2	2	S1	2861805	                  Escherichia coli O139:H1
+  0.00	1	1	S1	913088	                  Escherichia coli TW11681
+  0.00	1	1	S1	1055538	                  Escherichia coli O145
+  0.00	1	0	S1	861906	                  Escherichia coli O44:H18
+  0.00	1	1	S2	216592	                    Escherichia coli 042
+  0.00	1	1	S1	2592065	                  Escherichia coli O1:H42
+  0.00	1	1	S1	1954351	                  Escherichia coli APEC O2-211
+  0.00	1	1	S1	2605619	                  Escherichia coli O16:H48
+  0.00	1	0	S1	1446738	                  Escherichia coli O39:NM
+  0.00	1	1	S2	1446739	                    Escherichia coli O39:NM str. F8704-2
+  0.00	1	1	S1	331112	                  Escherichia coli HS
+  0.00	1	1	S1	585397	                  Escherichia coli ED1a
+  0.00	1	1	S1	585057	                  Escherichia coli IAI39
+  0.00	1	1	S1	2773705	                  Escherichia coli O18ac:H14
+  0.00	1	1	S1	2773707	                  Escherichia coli O19:H7
+  0.00	1	1	S1	2822132	                  Escherichia coli O128ac:H12
+  0.00	1	1	S1	2814546	                  Escherichia coli O1:HNT
+  0.00	1	1	S1	1311757	                  Escherichia coli ACN001
+  0.00	1	1	S1	439855	                  Escherichia coli SMS-3-5
+  0.00	1	1	S1	2810404	                  Escherichia coli O7:H4
+  0.00	1	1	S1	2810407	                  Escherichia coli O126:H45
+  0.01	13	13	S	564	                Escherichia fergusonii
+  0.00	2	2	S	208962	                Escherichia albertii
+  0.14	194	1	G	547	              Enterobacter
+  0.14	193	7	G1	354276	                Enterobacter cloacae complex
+  0.06	84	76	S	158836	                  Enterobacter hormaechei
+  0.00	6	6	S1	1812934	                    Enterobacter hormaechei subsp. hoffmannii
+  0.00	1	1	S1	301105	                    Enterobacter hormaechei subsp. hormaechei
+  0.00	1	1	S1	1296536	                    Enterobacter hormaechei subsp. xiangfangensis
+  0.03	45	0	G2	2757714	                  unclassified Enterobacter cloacae complex
+  0.02	23	23	S	2850078	                    Enterobacter cloacae complex sp. ECL72
+  0.01	21	21	S	2027919	                    Enterobacter cloacae complex sp.
+  0.00	1	1	S	2850492	                    Enterobacter cloacae complex sp. ECL78
+  0.02	29	29	S	61645	                  Enterobacter asburiae
+  0.01	12	12	S	208224	                  Enterobacter kobei
+  0.01	9	9	S	1812935	                  Enterobacter roggenkampii
+  0.00	5	5	S	550	                  Enterobacter cloacae
+  0.00	2	2	S	299767	                  Enterobacter ludwigii
+  0.12	167	5	G	544	              Citrobacter
+  0.08	119	30	G1	1344959	                Citrobacter freundii complex
+  0.05	75	74	S	546	                  Citrobacter freundii
+  0.00	1	1	S1	1333848	                    Citrobacter freundii CFNIH1
+  0.01	9	9	S	1639133	                  Citrobacter portucalensis
+  0.00	3	3	S	133448	                  Citrobacter youngae
+  0.00	1	1	S	67826	                  Citrobacter sedlakii
+  0.00	1	1	S	67827	                  Citrobacter werkmanii
+  0.01	15	3	G1	2644389	                unclassified Citrobacter
+  0.00	7	7	S	2742675	                  Citrobacter sp. RHBSTW-00986
+  0.00	2	2	S	2742661	                  Citrobacter sp. RHBSTW-00678
+  0.00	1	1	S	2716879	                  Citrobacter sp. Y3
+  0.00	1	1	S	2742632	                  Citrobacter sp. RHBSTW-00053
+  0.00	1	1	S	2683822	                  Citrobacter sp. 172116965
+  0.01	12	12	S	545	                Citrobacter koseri
+  0.01	9	0	S	35703	                Citrobacter amalonaticus
+  0.01	9	9	S1	1261127	                  Citrobacter amalonaticus Y19
+  0.00	2	0	S	67825	                Citrobacter rodentium
+  0.00	2	2	S1	637910	                  Citrobacter rodentium ICC168
+  0.00	1	1	S	67824	                Citrobacter farmeri
+  0.00	1	1	S	1748967	                Citrobacter cronae
+  0.00	1	1	S	2546350	                Citrobacter arsenatis
+  0.00	1	1	S	2562449	                Citrobacter tructae
+  0.00	1	1	S	2653932	                Citrobacter telavivensis
+  0.11	161	0	G	590	              Salmonella
+  0.11	152	31	S	28901	                Salmonella enterica
+  0.08	118	5	S1	59201	                  Salmonella enterica subsp. enterica
+  0.01	20	20	S2	58101	                    Salmonella enterica subsp. enterica serovar Waycross
+  0.01	18	18	S2	596	                    Salmonella enterica subsp. enterica serovar Muenchen
+  0.01	15	15	S2	595	                    Salmonella enterica subsp. enterica serovar Infantis
+  0.01	8	0	S2	436295	                    Salmonella enterica subsp. enterica serovar Poona
+  0.01	8	8	S3	1124962	                      Salmonella enterica subsp. enterica serovar Poona str. ATCC BAA-1673
+  0.00	7	7	S2	58095	                    Salmonella enterica subsp. enterica serovar Agona
+  0.00	7	7	S2	483687	                    Salmonella enterica subsp. enterica serovar Concord
+  0.00	4	4	S2	90371	                    Salmonella enterica subsp. enterica serovar Typhimurium
+  0.00	4	4	S2	28144	                    Salmonella enterica subsp. enterica serovar Derby
+  0.00	4	4	S2	149391	                    Salmonella enterica subsp. enterica serovar Braenderup
+  0.00	3	1	S2	58712	                    Salmonella enterica subsp. enterica serovar Anatum
+  0.00	2	2	S3	1454589	                      Salmonella enterica subsp. enterica serovar Anatum str. USDA-ARS-USMARC-1728
+  0.00	3	0	S2	1242085	                    Salmonella enterica subsp. enterica serovar Macclesfield
+  0.00	3	3	S3	1242107	                      Salmonella enterica subsp. enterica serovar Macclesfield str. S-1643
+  0.00	3	0	S2	108619	                    Salmonella enterica subsp. enterica serovar Newport
+  0.00	2	2	S3	796730	                      Salmonella enterica subsp. enterica serovar Newport str. CVM 22425
+  0.00	1	1	S3	858307	                      Salmonella enterica subsp. enterica serovar Newport str. CVM N1543
+  0.00	3	3	S2	340189	                    Salmonella enterica subsp. enterica serovar Manhattan
+  0.00	2	2	S2	286783	                    Salmonella enterica subsp. enterica serovar Indiana
+  0.00	2	2	S2	1962641	                    Salmonella enterica subsp. enterica serovar Birkenhead
+  0.00	2	2	S2	149539	                    Salmonella enterica subsp. enterica serovar Enteritidis
+  0.00	2	2	S2	611	                    Salmonella enterica subsp. enterica serovar Heidelberg
+  0.00	2	2	S2	90370	                    Salmonella enterica subsp. enterica serovar Typhi
+  0.00	1	1	S2	192955	                    Salmonella enterica subsp. enterica serovar Kentucky
+  0.00	1	0	S2	605	                    Salmonella enterica subsp. enterica serovar Pullorum
+  0.00	1	1	S3	1029979	                      Salmonella enterica subsp. enterica serovar Pullorum str. ATCC 9120
+  0.00	1	1	S2	57741	                    Salmonella enterica subsp. enterica serovar Blockley
+  0.00	1	1	S2	149388	                    Salmonella enterica subsp. enterica serovar Mikawasima
+  0.00	3	1	S1	59204	                  Salmonella enterica subsp. diarizonae
+  0.00	1	0	S2	1243615	                    Salmonella enterica subsp. diarizonae serovar 65:c:z
+  0.00	1	1	S3	1243616	                      Salmonella enterica subsp. diarizonae serovar 65:c:z str. SA20044251
+  0.00	1	1	S2	2339227	                    Salmonella enterica subsp. diarizonae serovar 61:k:1,5,(7)
+  0.01	9	0	G1	2614656	                unclassified Salmonella
+  0.01	9	9	S	599	                  Salmonella sp.
+  0.06	90	10	G	160674	              Raoultella
+  0.04	53	53	S	575	                Raoultella planticola
+  0.01	17	17	S	54291	                Raoultella ornithinolytica
+  0.00	6	6	S	1259973	                Raoultella electrica
+  0.00	3	3	S	577	                Raoultella terrigena
+  0.00	1	0	G1	2627600	                unclassified Raoultella
+  0.00	1	1	S	2799495	                  Raoultella sp. XY-1
+  0.01	17	0	G	413496	              Cronobacter
+  0.01	16	8	S	28141	                Cronobacter sakazakii
+  0.01	8	8	S1	956149	                  Cronobacter sakazakii SP291
+  0.00	1	0	S	413497	                Cronobacter dublinensis
+  0.00	1	0	S1	413498	                  Cronobacter dublinensis subsp. dublinensis
+  0.00	1	1	S2	1159554	                    Cronobacter dublinensis subsp. dublinensis LMG 23823
+  0.00	5	0	G	1330547	              Kosakonia
+  0.00	5	5	S	283686	                Kosakonia radicincitans
+  0.00	3	0	F1	191675	              Enterobacteriaceae incertae sedis
+  0.00	3	0	F2	84563	                ant, tsetse, mealybug, aphid, etc. endosymbionts
+  0.00	2	0	F3	146507	                  aphid secondary symbionts
+  0.00	1	1	S	134287	                    secondary endosymbiont of Heteropsylla cubana
+  0.00	1	0	G	568987	                    Candidatus Hamiltonella
+  0.00	1	1	S	138072	                      Candidatus Hamiltonella defensa
+  0.00	1	0	G	1906657	                  Candidatus Doolittlea
+  0.00	1	1	S	1778262	                    Candidatus Doolittlea endobia
+  0.00	2	1	G	83654	              Leclercia
+  0.00	1	1	S	83655	                Leclercia adecarboxylata
+  0.00	2	0	G	158876	              Yokenella
+  0.00	2	2	S	158877	                Yokenella regensburgei
+  0.00	2	0	G	620	              Shigella
+  0.00	2	2	S	621	                Shigella boydii
+  0.00	1	0	G	2055876	              Metakosakonia
+  0.00	1	0	G1	2639707	                unclassified Metakosakonia
+  0.00	1	1	S	2487150	                  Metakosakonia sp. MRY16-398
+  0.00	1	0	G	2815296	              Jejubacter
+  0.00	1	1	S	2579935	                Jejubacter calystegiae
+  0.00	1	0	G	2055880	              Pseudescherichia
+  0.00	1	1	S	566	                Pseudescherichia vulneris
+  0.00	1	0	G	2726810	              Scandinavium
+  0.00	1	1	S	1851514	                Scandinavium goeteborgense
+  0.00	1	0	G	1330546	              Pluralibacter
+  0.00	1	1	S	61647	                Pluralibacter gergoviae
+  0.00	1	0	G	1177214	              Candidatus Profftia
+  0.00	1	1	S	1177216	                Candidatus Profftia tarda
+  0.00	1	0	G	158483	              Cedecea
+  0.00	1	0	G1	2649846	                unclassified Cedecea
+  0.00	1	1	S	2545798	                  Cedecea sp. FDAARGOS_727
+  0.01	16	0	F	1903414	            Morganellaceae
+  0.01	9	0	G	586	              Providencia
+  0.01	9	9	S	587	                Providencia rettgeri
+  0.00	6	0	G	583	              Proteus
+  0.00	5	5	S	584	                Proteus mirabilis
+  0.00	1	0	S	1574161	                Proteus terrae
+  0.00	1	1	S1	626774	                  Proteus terrae subsp. cibarius
+  0.00	1	0	G	581	              Morganella
+  0.00	1	1	S	582	                Morganella morganii
+  0.01	10	0	F	1903411	            Yersiniaceae
+  0.00	6	0	G	629	              Yersinia
+  0.00	5	5	S	630	                Yersinia enterocolitica
+  0.00	1	0	G1	1649845	                Yersinia pseudotuberculosis complex
+  0.00	1	1	S	632	                  Yersinia pestis
+  0.00	3	0	G	613	              Serratia
+  0.00	1	0	G1	2647522	                unclassified Serratia
+  0.00	1	1	S	104623	                  Serratia sp. ATCC 39006
+  0.00	1	1	S	138074	                Serratia symbiotica
+  0.00	1	1	S	614	                Serratia liquefaciens
+  0.00	1	0	G	1565532	              Rouxiella
+  0.00	1	1	S	1646377	                Rouxiella badensis
+  0.00	7	0	F	1903410	            Pectobacteriaceae
+  0.00	5	0	G	122277	              Pectobacterium
+  0.00	4	0	S	554	                Pectobacterium carotovorum
+  0.00	4	4	S1	555	                  Pectobacterium carotovorum subsp. carotovorum
+  0.00	1	1	S	1201031	                Pectobacterium aroidearum
+  0.00	1	1	G	71655	              Brenneria
+  0.00	1	0	G	204037	              Dickeya
+  0.00	1	0	G1	2622466	                unclassified Dickeya
+  0.00	1	1	S	568766	                  Dickeya sp. NCPPB 3274
+  0.00	1	0	F	1903409	            Erwiniaceae
+  0.00	1	0	G	551	              Erwinia
+  0.00	1	0	S	338565	                Erwinia tasmaniensis
+  0.00	1	1	S1	465817	                  Erwinia tasmaniensis Et1/99
+  0.00	1	0	F	1903412	            Hafniaceae
+  0.00	1	0	G	568	              Hafnia
+  0.00	1	0	S	569	                Hafnia alvei
+  0.00	1	1	S1	1453496	                  Hafnia alvei FB1
+  0.02	28	0	O	72274	          Pseudomonadales
+  0.01	19	0	F	135621	            Pseudomonadaceae
+  0.01	18	2	G	286	              Pseudomonas
+  0.01	8	5	G1	136849	                Pseudomonas syringae group
+  0.00	3	0	G2	251695	                  Pseudomonas syringae group genomosp. 1
+  0.00	3	0	S	317	                    Pseudomonas syringae
+  0.00	3	0	S1	264449	                      Pseudomonas syringae group pathovars incertae sedis
+  0.00	3	3	S2	103796	                        Pseudomonas syringae pv. actinidiae
+  0.00	3	0	G1	136841	                Pseudomonas aeruginosa group
+  0.00	2	2	S	287	                  Pseudomonas aeruginosa
+  0.00	1	0	G2	627141	                  Pseudomonas nitroreducens/multiresinivorans group
+  0.00	1	1	S	95301	                    Pseudomonas multiresinivorans
+  0.00	2	0	G1	136843	                Pseudomonas fluorescens group
+  0.00	2	2	S	78543	                  Pseudomonas migulae
+  0.00	1	1	S	237609	                Pseudomonas alkylphenolica
+  0.00	1	1	S	1628086	                Pseudomonas kribbensis
+  0.00	1	0	G1	136845	                Pseudomonas putida group
+  0.00	1	1	S	303	                  Pseudomonas putida
+  0.00	1	0	F1	351	              Azotobacter group
+  0.00	1	0	G	352	                Azotobacter
+  0.00	1	1	S	354	                  Azotobacter vinelandii
+  0.01	9	0	F	468	            Moraxellaceae
+  0.01	9	1	G	469	              Acinetobacter
+  0.00	6	1	G1	909768	                Acinetobacter calcoaceticus/baumannii complex
+  0.00	5	5	S	470	                  Acinetobacter baumannii
+  0.00	1	1	S	202956	                Acinetobacter towneri
+  0.00	1	1	S	108980	                Acinetobacter ursingii
+  0.01	12	0	O	135623	          Vibrionales
+  0.01	12	0	F	641	            Vibrionaceae
+  0.01	12	2	G	662	              Vibrio
+  0.00	7	7	S	666	                Vibrio cholerae
+  0.00	3	0	G1	717610	                Vibrio harveyi group
+  0.00	3	3	S	670	                  Vibrio parahaemolyticus
+  0.00	4	0	O	135614	          Xanthomonadales
+  0.00	4	0	F	32033	            Xanthomonadaceae
+  0.00	4	4	G	338	              Xanthomonas
+  0.00	4	0	O	135624	          Aeromonadales
+  0.00	4	0	F	84642	            Aeromonadaceae
+  0.00	4	0	G	642	              Aeromonas
+  0.00	2	2	S	644	                Aeromonas hydrophila
+  0.00	1	1	S	646	                Aeromonas sobria
+  0.00	1	1	S	196024	                Aeromonas dhakensis
+  0.00	1	0	O	135613	          Chromatiales
+  0.00	1	0	F	1096778	            Thioalkalispiraceae
+  0.00	1	0	G	2034504	              Sulfurivermis
+  0.00	1	1	S	1972068	                Sulfurivermis fontis
+  0.00	1	0	O	135622	          Alteromonadales
+  0.00	1	0	F	72275	            Alteromonadaceae
+  0.00	1	0	G	261825	              Agarivorans
+  0.00	1	1	S	1563703	                Agarivorans aestuarii
+  0.00	6	1	C	28216	        Betaproteobacteria
+  0.00	5	0	O	80840	          Burkholderiales
+  0.00	5	0	F	506	            Alcaligenaceae
+  0.00	5	0	G	507	              Alcaligenes
+  0.00	5	5	S	511	                Alcaligenes faecalis
+  0.00	1	0	C	28211	        Alphaproteobacteria
+  0.00	1	0	O	356	          Hyphomicrobiales
+  0.00	1	0	F	255475	            Aurantimonadaceae
+  0.00	1	0	G	414371	              Aureimonas
+  0.00	1	1	S	1701758	                Aureimonas populi
+  0.01	14	0	D1	1783272	      Terrabacteria group
+  0.01	10	0	P	1239	        Firmicutes
+  0.01	10	0	C	186801	          Clostridia
+  0.01	10	1	O	186802	            Eubacteriales
+  0.00	5	0	F	216572	              Oscillospiraceae
+  0.00	4	0	G	216851	                Faecalibacterium
+  0.00	4	2	S	853	                  Faecalibacterium prausnitzii
+  0.00	1	1	S1	657322	                    Faecalibacterium prausnitzii SL3/3
+  0.00	1	1	S1	718252	                    Faecalibacterium prausnitzii L2-6
+  0.00	1	0	G	459786	                Oscillibacter
+  0.00	1	0	G1	2629304	                  unclassified Oscillibacter
+  0.00	1	1	S	2714355	                    Oscillibacter sp. MM50
+  0.00	3	1	F	186803	              Lachnospiraceae
+  0.00	1	0	G	28050	                Lachnospira
+  0.00	1	0	S	39485	                  Lachnospira eligens
+  0.00	1	1	S1	515620	                    [Eubacterium] eligens ATCC 27750
+  0.00	1	0	G	572511	                Blautia
+  0.00	1	0	G1	2648079	                  unclassified Blautia
+  0.00	1	1	S	2479767	                    Blautia sp. SC05B48
+  0.00	1	0	F	990719	              Christensenellaceae
+  0.00	1	0	G	990721	                Christensenella
+  0.00	1	0	G1	2649046	                  unclassified Christensenella
+  0.00	1	1	S	2086585	                    Christensenella sp. Marseille-P3954
+  0.00	4	0	P	201174	        Actinobacteria
+  0.00	3	0	C	1760	          Actinomycetia
+  0.00	1	0	O	85004	            Bifidobacteriales
+  0.00	1	0	F	31953	              Bifidobacteriaceae
+  0.00	1	0	G	1678	                Bifidobacterium
+  0.00	1	1	S	1680	                  Bifidobacterium adolescentis
+  0.00	1	0	O	85006	            Micrococcales
+  0.00	1	0	F	1268	              Micrococcaceae
+  0.00	1	0	G	1160973	                Auritidibacter
+  0.00	1	0	G1	2634694	                  unclassified Auritidibacter
+  0.00	1	1	S	2170745	                    Auritidibacter sp. NML130574
+  0.00	1	0	O	85011	            Streptomycetales
+  0.00	1	0	F	2062	              Streptomycetaceae
+  0.00	1	0	G	1883	                Streptomyces
+  0.00	1	1	S	68209	                  Streptomyces globosus
+  0.00	1	0	C	84998	          Coriobacteriia
+  0.00	1	0	O	84999	            Coriobacteriales
+  0.00	1	0	F	84107	              Coriobacteriaceae
+  0.00	1	0	G	102106	                Collinsella
+  0.00	1	1	S	74426	                  Collinsella aerofaciens
+  0.00	3	0	D1	1783270	      FCB group
+  0.00	3	0	D2	68336	        Bacteroidetes/Chlorobi group
+  0.00	3	0	P	976	          Bacteroidetes
+  0.00	3	0	C	200643	            Bacteroidia
+  0.00	3	0	O	171549	              Bacteroidales
+  0.00	1	0	F	171552	                Prevotellaceae
+  0.00	1	0	G	838	                  Prevotella
+  0.00	1	1	S	839	                    Prevotella ruminicola
+  0.00	1	0	F	2005519	                Barnesiellaceae
+  0.00	1	0	G	1348911	                  Coprobacter
+  0.00	1	0	S	1501392	                    Coprobacter secundus
+  0.00	1	1	S1	2751153	                      Coprobacter secundus subsp. similis
+  0.00	1	0	F	2005525	                Tannerellaceae
+  0.00	1	0	G	375288	                  Parabacteroides
+  0.00	1	1	S	823	                    Parabacteroides distasonis
+  0.00	4	0	D	2759	    Eukaryota
+  0.00	4	0	D1	33154	      Opisthokonta
+  0.00	4	0	K	33208	        Metazoa
+  0.00	4	0	K1	6072	          Eumetazoa
+  0.00	4	0	K2	33213	            Bilateria
+  0.00	4	0	K3	33511	              Deuterostomia
+  0.00	4	0	P	7711	                Chordata
+  0.00	4	0	P1	89593	                  Craniata
+  0.00	4	0	P2	7742	                    Vertebrata
+  0.00	4	0	P3	7776	                      Gnathostomata
+  0.00	4	0	P4	117570	                        Teleostomi
+  0.00	4	0	P5	117571	                          Euteleostomi
+  0.00	4	0	P6	8287	                            Sarcopterygii
+  0.00	4	0	P7	1338369	                              Dipnotetrapodomorpha
+  0.00	4	0	P8	32523	                                Tetrapoda
+  0.00	4	0	P9	32524	                                  Amniota
+  0.00	4	0	C	40674	                                    Mammalia
+  0.00	4	0	C1	32525	                                      Theria
+  0.00	4	0	C2	9347	                                        Eutheria
+  0.00	4	0	C3	1437010	                                          Boreoeutheria
+  0.00	4	0	C4	314146	                                            Euarchontoglires
+  0.00	4	0	O	9443	                                              Primates
+  0.00	4	0	O1	376913	                                                Haplorrhini
+  0.00	4	0	O2	314293	                                                  Simiiformes
+  0.00	4	0	O3	9526	                                                    Catarrhini
+  0.00	4	0	O4	314295	                                                      Hominoidea
+  0.00	4	0	F	9604	                                                        Hominidae
+  0.00	4	0	F1	207598	                                                          Homininae
+  0.00	4	0	G	9605	                                                            Homo
+  0.00	4	4	S	9606	                                                              Homo sapiens
