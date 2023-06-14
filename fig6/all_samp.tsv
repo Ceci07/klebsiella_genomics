@@ -1,0 +1,601 @@
+Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	1	1101	+	DJILHJ_00005		Plasmid replication protein	SO:0001217, UniRef:UniRef50_A0A327Q1A0
+contig_1	oriC	1102	1779	?			origin of replication	
+contig_1	cds	1447	1728	+	DJILHJ_00010		DUF4288 domain-containing protein	SO:0001217, UniRef:UniRef50_C4NUQ4
+contig_1	cds	2138	2572	-	DJILHJ_00015		DUF350 domain-containing protein	SO:0001217, UniRef:UniRef50_C4NUQ5
+contig_1	cds	2590	3705	-	DJILHJ_00020		PAPS-reduct domain-containing protein	SO:0001217, UniRef:UniRef50_N9DY99
+contig_1	cds	3974	4582	+	DJILHJ_00025		TGc domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM79
+contig_1	cds	4587	5108	+	DJILHJ_00030		RES domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM80
+contig_1	cds	5111	5632	+	DJILHJ_00035		PDDEXK-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A411H8I0
+contig_1	cds	5729	6202	+	DJILHJ_00040		Orphan protein	SO:0001217, UniRef:UniRef50_T0P0Q1
+contig_1	cds	6192	6506	+	DJILHJ_00045		DUF4149 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM84
+contig_1	cds	6511	7365	+	DJILHJ_00050		DNA invertase	SO:0001217, UniRef:UniRef50_D3VM85
+contig_1	cds	7365	8324	+	DJILHJ_00055	sppA	Signal peptide peptidase SppA	SO:0001217, UniRef:UniRef50_A0A2D5RUZ7
+contig_1	cds	8340	9203	+	DJILHJ_00060		Thioredoxin domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM87
+contig_1	cds	9237	9665	+	DJILHJ_00065		Lipoprotein	SO:0001217, UniRef:UniRef50_D3VM88
+contig_1	cds	9722	10084	+	DJILHJ_00070		DUF4391 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM89
+contig_1	cds	10077	11075	+	DJILHJ_00075		hypothetical protein	
+contig_1	cds	11085	11531	+	DJILHJ_00080		Fe3+-siderophore ABC transporter permease	SO:0001217, UniRef:UniRef50_D3VM90
+contig_1	cds	11528	12046	+	DJILHJ_00085		Nitrite reductase	SO:0001217, UniRef:UniRef50_A0A095SFF3
+contig_1	cds	12049	12276	+	DJILHJ_00090		DUF1508 domain-containing protein	SO:0001217, UniRef:UniRef50_N2IR93
+contig_1	cds	12263	13120	+	DJILHJ_00095		DUF1995 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM92
+contig_1	cds	13146	13334	+	DJILHJ_00100		Prophage protein	SO:0001217, UniRef:UniRef50_A0A066PYA1
+contig_1	cds	13351	13878	+	DJILHJ_00105		TNase-like domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1P8DRA8
+contig_1	cds	13936	14208	+	DJILHJ_00110		DNA-binding protein HU-alpha	SO:0001217, UniRef:UniRef50_P52680
+contig_1	cds	14297	14590	+	DJILHJ_00115		hypothetical protein	
+contig_1	cds	14617	14919	-	DJILHJ_00120		hypothetical protein	PFAM:PF01381.25, PFAM:PF13744.9
+contig_1	cds	14924	15274	-	DJILHJ_00125		Type II toxin-antitoxin system RelE/ParE family toxin	SO:0001217, UniRef:UniRef50_B5XTR2
+contig_1	cds	15437	15985	+	DJILHJ_00130		Transcriptional regulator	SO:0001217, UniRef:UniRef50_W1JB53
+contig_1	cds	16326	16520	+	DJILHJ_00135		Paratox	SO:0001217, UniRef:UniRef50_D3VM98
+contig_1	cds	16531	16902	+	DJILHJ_00140		Phage protein	SO:0001217, UniRef:UniRef50_D3VM99
+contig_1	cds	16895	17365	+	DJILHJ_00145		DUF2846 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VMA0
+contig_1	cds	17380	17715	-	DJILHJ_00150		Permease	SO:0001217, UniRef:UniRef50_A0A501XRT9
+contig_1	cds	17812	18300	+	DJILHJ_00155		DUF1643 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A095ULH5
+contig_1	cds	18303	18800	+	DJILHJ_00160		50S ribosomal protein L11 methyltransferase	SO:0001217, UniRef:UniRef50_C4NUT2
+contig_1	cds	18904	19167	+	DJILHJ_00165		DUF1289 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A5B9B4E4
+contig_1	cds	19592	20296	-	DJILHJ_00170	tnp	IS6 family IS15DIV transposase	IS:IS15DIV, SO:0001217, UniRef:UniRef50_Q573Q1
+contig_1	cds	20343	20540	-	DJILHJ_00175	arsR	ArsR family transcriptional regulator	SO:0001217, UniRef:UniRef50_T2FLG5
+contig_1	cds	20645	21349	+	DJILHJ_00180	tnp	IS6 family IS15DIV transposase	IS:IS15DIV, SO:0001217, UniRef:UniRef50_Q573Q1
+contig_1	cds	21383	21874	-	DJILHJ_00185		hypothetical protein	
+contig_1	cds	21981	22718	+	DJILHJ_00190		Resolvase	SO:0001217, UniRef:UniRef50_P22996
+contig_1	cds	22715	22939	+	DJILHJ_00195		DEAD/DEAH box helicase	SO:0001217, UniRef:UniRef50_A0A553H3T3
+contig_1	cds	23150	24643	+	DJILHJ_00200		IS91-like element ISVsa3 family transposase	BlastRules:WP_061586541, SO:0001217, UniRef:UniRef50_A0A349X582
+contig_1	cds	24819	25121	-	DJILHJ_00205		Glm	SO:0001217, UniRef:UniRef50_Q6EZF2
+contig_1	cds	25208	26023	-	DJILHJ_00210	sul2	sulfonamide-resistant dihydropteroate synthase Sul2	NCBIProtein:WP_001043260.1, SO:0001217, UniRef:UniRef50_B3H353
+contig_1	cds	26330	26641	+	DJILHJ_00215		DUF5076 domain-containing protein	SO:0001217, UniRef:UniRef50_G2I992
+contig_1	cds	26815	27600	+	DJILHJ_00220	parA	ParA family protein	SO:0001217, UniRef:UniRef50_G2I993
+contig_1	cds	27604	28785	+	DJILHJ_00225	parB	ParB domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLR8
+contig_1	cds	28834	29106	+	DJILHJ_00230		DNA-binding protein	SO:0001217, UniRef:UniRef50_D3VLR9
+contig_1	cds	29159	29794	-	DJILHJ_00235		hypothetical protein	
+contig_1	cds	29886	30029	-	DJILHJ_00240		Rha family transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A8T3ULT6
+contig_1	cds	30348	30725	+	DJILHJ_00245		hypothetical protein	
+contig_1	cds	30718	30999	+	DJILHJ_00250		hypothetical protein	
+contig_1	cds	30974	31648	+	DJILHJ_00255		Thymidylate kinase	SO:0001217, UniRef:UniRef50_T0P5J8
+contig_1	cds	31641	32147	+	DJILHJ_00260		DnaJ-class molecular chaperone	SO:0001217, UniRef:UniRef50_W1JAR5
+contig_1	cds	32153	32464	+	DJILHJ_00265		Oxidoreductase	SO:0001217, UniRef:UniRef50_A0A0E3DRM0
+contig_1	cds	32473	32973	+	DJILHJ_00270		Recombinase	SO:0001217, UniRef:UniRef50_C4NUV9
+contig_1	cds	32977	34404	+	DJILHJ_00275		DNA (cytosine-5-)-methyltransferase	SO:0001217, UniRef:UniRef50_G0XAB6
+contig_1	cds	34404	35060	+	DJILHJ_00280		LAGLIDADG-2 domain-containing protein	SO:0001217, UniRef:UniRef50_W3VAM9
+contig_1	cds	34999	35262	+	DJILHJ_00285		hypothetical protein	
+contig_1	cds	35266	35484	+	DJILHJ_00290		DUF551 domain-containing protein	SO:0001217, UniRef:UniRef50_T0Q7T8
+contig_1	cds	35578	36195	+	DJILHJ_00295		Phage head-tail adapter protein	SO:0001217, UniRef:UniRef50_A0A095ULK4
+contig_1	cds	36196	36402	+	DJILHJ_00300		Transposase	SO:0001217, UniRef:UniRef50_G2I9A7
+contig_1	cds	36428	36706	+	DJILHJ_00305		ASCH domain-containing protein	SO:0001217, UniRef:UniRef50_A0A076FBD1
+contig_1	cds	36798	37286	-	DJILHJ_00310		Secreted protein	SO:0001217, UniRef:UniRef50_A0A221KL55
+contig_1	cds	37301	39493	-	DJILHJ_00315		DNA topoisomerase	SO:0001217, UniRef:UniRef50_C4NUW5
+contig_1	cds	39708	40325	-	DJILHJ_00320		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A189PG57
+contig_1	cds	40493	43465	+	DJILHJ_00325		TraI-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A8D6MI24
+contig_1	cds	43462	45327	+	DJILHJ_00330	traD	Type IV conjugative transfer system protein TraD	SO:0001217, UniRef:UniRef50_G2JBM9
+contig_1	cds	45338	45922	+	DJILHJ_00335		Conjugative transfer protein 234	SO:0001217, UniRef:UniRef50_T0Q8C2
+contig_1	cds	45879	46508	+	DJILHJ_00340		Integrating conjugative element protein	SO:0001217, UniRef:UniRef50_A0A0D5MAD7
+contig_1	cds	46518	46964	+	DJILHJ_00345		Transmembrane protein	SO:0001217, UniRef:UniRef50_D3VGK2
+contig_1	cds	46974	47351	+	DJILHJ_00350		Lipoprotein	SO:0001217, UniRef:UniRef50_C4NVT2
+contig_1	cds	47351	48013	+	DJILHJ_00355		Mu-like prophage FluMu protein gp29	SO:0001217, UniRef:UniRef50_D3VGK0
+contig_1	cds	48194	48337	+	DJILHJ_00360		Anaerobic dimethyl sulfoxide reductase chain C	SO:0001217, UniRef:UniRef50_G2I9C0
+contig_1	cds	48337	48714	+	DJILHJ_00365		Type VI secretion protein	SO:0001217, UniRef:UniRef50_T0P639
+contig_1	cds	48859	49140	+	DJILHJ_00370	traL	Type IV conjugative transfer system protein TraL	SO:0001217, UniRef:UniRef50_A0A6N3J2C5
+contig_1	cds	49137	49763	+	DJILHJ_00375	traE	TraE	SO:0001217, UniRef:UniRef50_A0A096H098
+contig_1	cds	49747	50664	+	DJILHJ_00380	traK	Conjugal transfer protein TraK	SO:0001217, UniRef:UniRef50_A0A095SGF0
+contig_1	cds	50661	51977	+	DJILHJ_00385		Conjugal transfer protein	SO:0001217, UniRef:UniRef50_A0A189PG65
+contig_1	cds	51974	52552	+	DJILHJ_00390	traV	Type IV conjugative transfer system protein TraV	SO:0001217, UniRef:UniRef50_A0A2T5EK51
+contig_1	cds	52565	52948	+	DJILHJ_00395	traA	Conjugal transfer protein TraA	SO:0001217, UniRef:UniRef50_A0A095SFV5
+contig_1	cds	53149	58680	+	DJILHJ_00400		DUF4165 domain-containing protein	SO:0001217, UniRef:UniRef50_G0XAD7
+contig_1	cds	59177	60565	+	DJILHJ_00405		RNA-directed DNA polymerase	SO:0001217, UniRef:UniRef50_A0A6D0KQN4
+contig_1	cds	60746	61453	+	DJILHJ_00410		Thiol:disulfide interchange protein	SO:0001217, UniRef:UniRef50_G0XAD8
+contig_1	cds	61450	63897	+	DJILHJ_00415	trhC	Sex pilus assembly protein TrhC	SO:0001217, UniRef:UniRef50_A0A2X2E092
+contig_1	cds	63912	64229	+	DJILHJ_00420		Conjugative transfer protein 345	SO:0001217, UniRef:UniRef50_D3VGI9
+contig_1	cds	64226	64756	+	DJILHJ_00425		Signal peptidase I	SO:0001217, UniRef:UniRef50_A0A1E3G7X0
+contig_1	cds	64776	65984	+	DJILHJ_00430	traW	Conjugal transfer protein TraW	SO:0001217, UniRef:UniRef50_D2YA00
+contig_1	cds	65981	66652	+	DJILHJ_00435	ydiV	Anti-FlhC(2)FlhD(4) factor YdiV	SO:0001217, UniRef:UniRef50_A0A5X4LGU5
+contig_1	cds	66649	67656	+	DJILHJ_00440	traU	Conjugal transfer protein TraU	SO:0001217, UniRef:UniRef50_N2IRC1
+contig_1	cds	67770	70511	+	DJILHJ_00445	traN	Conjugal transfer protein TraN	SO:0001217, UniRef:UniRef50_A0A7U9IT80
+contig_1	cds	70553	71413	-	DJILHJ_00450		Lipoprotein	SO:0001217, UniRef:UniRef50_D3VLV1
+contig_1	cds	71536	72186	-	DJILHJ_00455		DUF1845 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2D5RRK3
+contig_1	cds	72478	72798	+	DJILHJ_00460		DUF2500 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2T5EJG8
+contig_1	cds	72894	72986	+	DJILHJ_00465		Phage coat protein	SO:0001217, UniRef:UniRef50_A0A327Q126
+contig_1	cds	73103	73288	+	DJILHJ_00470		DUF4376 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2S4TLF3
+contig_1	cds	73507	74475	+	DJILHJ_00475		AAA ATPase protein	SO:0001217, UniRef:UniRef50_C4NVV9
+contig_1	cds	74486	75391	+	DJILHJ_00480		PLAT domain-containing protein	SO:0001217, UniRef:UniRef50_A0A377UV10
+contig_1	cds	75455	75982	+	DJILHJ_00485		Single-stranded DNA-binding protein	SO:0001217, UniRef:UniRef50_A0A345P7X1
+contig_1	cds	76077	77066	+	DJILHJ_00490		Bet	SO:0001217, UniRef:UniRef50_G0XBU7
+contig_1	cds	77129	78139	+	DJILHJ_00495	yqaJ	YqaJ domain-containing protein	SO:0001217, UniRef:UniRef50_A0A095SBQ3
+contig_1	cds	78339	79616	+	DJILHJ_00500		DUF3150 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLW1
+contig_1	cds	79701	81497	+	DJILHJ_00505		VWFA domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLW2
+contig_1	cds	81559	81894	+	DJILHJ_00510		DUF4158 domain-containing protein	SO:0001217, UniRef:UniRef50_C4NVW6
+contig_1	cds	82159	82698	+	DJILHJ_00515		DUF4065 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A095UGS7
+contig_1	cds	82779	83279	+	DJILHJ_00520		Cupin-8 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLW4
+contig_1	cds	83353	84237	+	DJILHJ_00525		DNA adenine modification methylase	SO:0001217, UniRef:UniRef50_A0A0D5MAU1
+contig_1	cds	84303	84527	+	DJILHJ_00530		2Fe-2S ferredoxin-type domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLW7
+contig_1	cds	84589	84978	+	DJILHJ_00535		hypothetical protein	
+contig_1	cds	84968	85414	+	DJILHJ_00540		Phage protein	SO:0001217, UniRef:UniRef50_D3VLW9
+contig_1	cds	85419	85694	+	DJILHJ_00545		DUF551 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A318L267
+contig_1	cds	85752	85943	+	DJILHJ_00550		DUF3077 domain-containing protein	SO:0001217, UniRef:UniRef50_T0P0R6
+contig_1	cds	86012	86365	+	DJILHJ_00555		Topoisomerase II	SO:0001217, UniRef:UniRef50_A0A0K2S3I2
+contig_1	cds	86558	86902	+	DJILHJ_00560		TPR repeat-containing protein	SO:0001217, UniRef:UniRef50_C4NUZ3
+contig_1	cds	86980	87282	+	DJILHJ_00565		Protein kinase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A189PGC2
+contig_1	cds	87360	88985	+	DJILHJ_00570		DNA (cytosine-5-)-methyltransferase	SO:0001217, UniRef:UniRef50_C4NUZ5
+contig_1	cds	89046	89477	+	DJILHJ_00575		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0A095SAN4
+contig_1	cds	89551	90105	+	DJILHJ_00580		hypothetical protein	
+contig_1	cds	90340	90633	+	DJILHJ_00585		DUF3024 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLX5
+contig_1	cds	90737	91123	+	DJILHJ_00590	tnpV	TnpV protein	SO:0001217, UniRef:UniRef50_A0A7Y4AWL4
+contig_1	cds	91211	93661	+	DJILHJ_00595		Phosphoadenosine phosphosulfate reductase	SO:0001217, UniRef:UniRef50_D3VLX7
+contig_1	cds	93862	94065	+	DJILHJ_00600		CID domain-containing protein	SO:0001217, UniRef:UniRef50_C4NV00
+contig_1	cds	94137	94742	+	DJILHJ_00605	yfbR	Nucleotidase YfbR	SO:0001217, UniRef:UniRef50_A0A377UQ92
+contig_1	cds	94735	95001	+	DJILHJ_00610		Bacteriophage protein	SO:0001217, UniRef:UniRef50_D3VLY0
+contig_1	cds	94998	95210	+	DJILHJ_00615		hypothetical protein	
+contig_1	cds	95280	95837	+	DJILHJ_00620		Pyruvate dehydrogenase	SO:0001217, UniRef:UniRef50_D3VLY2
+contig_1	cds	95913	96764	+	DJILHJ_00625	ngrC	NgrC	SO:0001217, UniRef:UniRef50_A0A0D4D9D3
+contig_1	cds	96969	97115	+	DJILHJ_00630		Transposase	SO:0001217, UniRef:UniRef50_G2I9H7
+contig_1	cds	97222	97608	+	DJILHJ_00635		hypothetical protein	
+contig_1	cds	97786	99513	+	DJILHJ_00640		Prim-Zn-Ribbon domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLY6
+contig_1	cds	99500	99778	+	DJILHJ_00645		Transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A379KCY9
+contig_1	cds	99851	100090	+	DJILHJ_00650		Permease	SO:0001217, UniRef:UniRef50_A0A411H8D0
+contig_1	cds	100100	100216	+	DJILHJ_00655		DUF3149 domain-containing protein	SO:0001217, UniRef:UniRef50_G2I9M2
+contig_1	cds	100337	100711	+	DJILHJ_00660	matP	MatP domain-containing protein	SO:0001217, UniRef:UniRef50_W1J8U3
+contig_1	cds	100825	101550	+	DJILHJ_00665		hypothetical protein	
+contig_1	cds	103794	104150	-	DJILHJ_00670		hypothetical protein	
+contig_1	cds	104686	104901	+	DJILHJ_00675	insB	InsB	SO:0001217, UniRef:UniRef50_B0LHG4
+contig_1	cds	105213	105872	+	DJILHJ_00680	catA1	type A-1 chloramphenicol O-acetyltransferase	NCBIProtein:WP_000412211.1, SO:0001217, UniRef:UniRef50_T2HJ32
+contig_1	cds	106073	106450	-	DJILHJ_00685		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_H6VZV0
+contig_1	cds	106761	107765	-	DJILHJ_00690	tnp	IS110 family IS4321 transposase	IS:IS4321, SO:0001217, UniRef:UniRef50_A0A193M262
+contig_1	cds	107844	110810	-	DJILHJ_00695		Tn3-like element TnAs3 family transposase	BlastRules:WP_001138064, SO:0001217, UniRef:UniRef50_P06694
+contig_1	cds	110813	111373	-	DJILHJ_00700		Resolvase/invertase-type recombinase catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_U7LC53
+contig_1	cds	111499	111699	-	DJILHJ_00705		DUF3330 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1B0RF04
+contig_1	cds	112052	113065	-	DJILHJ_00710	intI1	class 1 integron integrase IntI1	BlastRules:WP_000845054, SO:0001217, UniRef:UniRef50_A0A257FG49
+contig_1	ncRNA-region	113155	113220	+			putative aminoglycoside riboswitch / attI site	RFAM:RF02912, SO:0000035
+contig_1	cds	113210	113707	+	DJILHJ_00715	dfrA12	trimethoprim-resistant dihydrofolate reductase DfrA12	NCBIProtein:WP_001083725.1
+contig_1	cds	114127	114906	+	DJILHJ_00720	aadA2	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA2	NCBIProtein:WP_001206356.1, SO:0001217, UniRef:UniRef50_A0A0F1AMP2
+contig_1	cds	115070	115417	+	DJILHJ_00725	qacEdelta1	quaternary ammonium compound efflux SMR transporter QacE delta 1	NCBIProtein:WP_000679427.1, SO:0001217, UniRef:UniRef50_A0A2Z3XFM5
+contig_1	cds	115411	116250	+	DJILHJ_00730	sul1	sulfonamide-resistant dihydropteroate synthase Sul1	NCBIProtein:WP_000259031.1, SO:0001217, UniRef:UniRef50_A0A3M1L060
+contig_1	cds	116655	118196	+	DJILHJ_00735		IS91 family transposase	SO:0001217, UniRef:UniRef50_A0A349X582
+contig_1	cds	118528	119184	+	DJILHJ_00740	qnrA1	quinolone resistance pentapeptide repeat protein QnrA1	NCBIProtein:WP_012579084.1, SO:0001217, UniRef:UniRef50_Q87K03
+contig_1	cds	119446	120588	+	DJILHJ_00745	cmlA5	chloramphenicol efflux MFS transporter CmlA5	NCBIProtein:WP_012300772.1
+contig_1	cds	120780	121127	+	DJILHJ_00750	qacEdelta1	quaternary ammonium compound efflux SMR transporter QacE delta 1	NCBIProtein:WP_000679427.1, SO:0001217, UniRef:UniRef50_A0A2Z3XFM5
+contig_1	cds	121121	121960	+	DJILHJ_00755	sul1	sulfonamide-resistant dihydropteroate synthase Sul1	NCBIProtein:WP_000259031.1, SO:0001217, UniRef:UniRef50_A0A3M1L060
+contig_1	cds	122088	122360	+	DJILHJ_00760		hypothetical protein	
+contig_1	cds	122542	123546	-	DJILHJ_00765	tnp	IS110 family IS5075 transposase	IS:IS5075, SO:0001217, UniRef:UniRef50_A0A193M262
+contig_1	cds	123774	124979	+	DJILHJ_00770		Chromate efflux transporter	SO:0001217, UniRef:UniRef50_A0A2N9CKB0
+contig_1	cds	124990	125295	+	DJILHJ_00775		hypothetical protein	PFAM:PF03551.17, PFAM:PF13601.9
+contig_1	cds	125522	126286	+	DJILHJ_00780		IS6-like element IS6100 family transposase	BlastRules:WP_001389365, SO:0001217, UniRef:UniRef50_A0A5P9CVE5
+contig_1	cds	126779	127363	-	DJILHJ_00785		Macrolide 2'-phosphotransferase I repressor A, erythromycin resistance repressor protein	SO:0001217, UniRef:UniRef50_A0A023UEV3
+contig_1	cds	127363	128601	-	DJILHJ_00790		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_V0V4R8
+contig_1	cds	128598	129503	-	DJILHJ_00795	mph(A)	Mph(A) family macrolide 2'-phosphotransferase	NCBIProtein:WP_000219391.1, SO:0001217, UniRef:UniRef50_Q47396
+contig_1	cds	129625	130329	-	DJILHJ_00800	tnp	IS6 family IS15DIV transposase	IS:IS15DIV, SO:0001217, UniRef:UniRef50_Q573Q1
+contig_1	cds	130480	131295	+	DJILHJ_00805	aph(3')-Ia	aminoglycoside O-phosphotransferase APH(3')-Ia	NCBIProtein:WP_000018329.1, SO:0001217, UniRef:UniRef50_P00551
+contig_1	cds	131485	132189	-	DJILHJ_00810	tnp	IS6 family IS15DIV transposase	IS:IS15DIV, SO:0001217, UniRef:UniRef50_Q573Q1
+contig_1	cds	132236	133504	-	DJILHJ_00815		Integrase catalytic region	SO:0001217, UniRef:UniRef50_C5TC55
+contig_1	cds	133579	134286	-	DJILHJ_00820		hypothetical protein	PFAM:PF00563.23
+contig_1	cds	134283	134519	-	DJILHJ_00825	merE	broad-spectrum mercury transporter MerE	NCBIFam:NF010310.2, SO:0001217, UniRef:UniRef50_Q935L2
+contig_1	cds	134516	134878	-	DJILHJ_00830	merD	mercury resistance co-regulator MerD	NCBIFam:NF033783.1, SO:0001217, UniRef:UniRef50_A0A2R3IL41
+contig_1	cds	134896	136590	-	DJILHJ_00835	merA	mercury(II) reductase	NCBIFam:TIGR02053.1, SO:0001217, UniRef:UniRef50_P00392
+contig_1	cds	136642	137064	-	DJILHJ_00840	merC	organomercurial transporter MerC	NCBIProtein:AAC33908.1, SO:0001217, UniRef:UniRef50_A0A0A1H6J0
+contig_1	cds	137100	137375	-	DJILHJ_00845	merP	mercury resistance system periplasmic binding protein MerP	NCBIProtein:AAC38219.1, SO:0001217, UniRef:UniRef50_A0A2N8MEQ2
+contig_1	cds	137389	137739	-	DJILHJ_00850	merT	mercuric transport protein MerT	NCBIProtein:AAB59075.1, SO:0001217, UniRef:UniRef50_A0A515EQQ8
+contig_1	cds	137811	138245	+	DJILHJ_00855	merR	mercury resistance transcriptional regulator MerR	NCBIProtein:CAA77320.1, SO:0001217, UniRef:UniRef50_A0A2W5FYV2
+contig_1	cds	138324	139328	+	DJILHJ_00860	tnp	IS110 family IS4321 transposase	IS:IS4321, SO:0001217, UniRef:UniRef50_A0A193M262
+contig_1	cds	140128	140343	+	DJILHJ_00865	insB	InsB	SO:0001217, UniRef:UniRef50_B0LHG4
+contig_1	cds	140427	140675	-	DJILHJ_00870		hypothetical protein	
+contig_1	cds	140935	141216	+	DJILHJ_00875		STAS domain-containing protein	SO:0001217, UniRef:UniRef50_C4NV54
+contig_1	cds	141235	141516	+	DJILHJ_00880		hypothetical protein	
+contig_1	cds	141526	142056	+	DJILHJ_00885		Protein tyrosine phosphatase	SO:0001217, UniRef:UniRef50_A0A095SG67
+contig_1	cds	142059	143069	+	DJILHJ_00890		Integrase/recombinase	SO:0001217, UniRef:UniRef50_N1NTV4
+contig_1	cds	143074	143943	+	DJILHJ_00895		3'-5' exonuclease	SO:0001217, UniRef:UniRef50_C4NW33
+contig_1	cds	143940	144431	+	DJILHJ_00900		Protein singed	SO:0001217, UniRef:UniRef50_A0A1V0M4G1
+contig_1	cds	144748	145623	+	DJILHJ_00905		DNA replication terminus site-binding protein	SO:0001217, UniRef:UniRef50_D3VM13
+contig_1	cds	145776	146816	+	DJILHJ_00910	kfrA	ATPase-like KfrA protein	SO:0001217, UniRef:UniRef50_C4NV61
+contig_1	cds	146816	147094	+	DJILHJ_00915		PaREP7	SO:0001217, UniRef:UniRef50_D3VM64
+contig_1	cds	147103	148614	+	DJILHJ_00920		DNA helicase	SO:0001217, UniRef:UniRef50_C4NV62
+contig_1	cds	148725	149765	+	DJILHJ_00925	traF	Conjugal transfer protein TraF	SO:0001217, UniRef:UniRef50_A0A0M2DWM0
+contig_1	cds	149767	151200	+	DJILHJ_00930	traH	Conjugal transfer protein TraH	SO:0001217, UniRef:UniRef50_A0A4P6ZIP0
+contig_1	cds	151213	154827	+	DJILHJ_00935		TraG-N domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3T1A4Q5
+contig_1	cds	154864	155226	-	DJILHJ_00940		Permease	SO:0001217, UniRef:UniRef50_T0P137
+contig_1	cds	155942	156214	+	DJILHJ_00945		Nucleotide excision repair protein	SO:0001217, UniRef:UniRef50_A0A411H8I6
+contig_1	cds	156214	156747	+	DJILHJ_00950		SLT domain-containing protein	SO:0001217, UniRef:UniRef50_A0A189PGJ4
+contig_1	cds	156757	157365	+	DJILHJ_00955		Transcriptional regulator	SO:0001217, UniRef:UniRef50_W3VAB0
+contig_1	cds	157362	157913	+	DJILHJ_00960		Regulator	SO:0001217, UniRef:UniRef50_A0A084T2L2
+contig_1	cds	157973	158392	-	DJILHJ_00965		HNS domain-containing protein	SO:0001217, UniRef:UniRef50_T0Q823
+contig_1	cds	158394	158687	-	DJILHJ_00970		Inner membrane protein	SO:0001217, UniRef:UniRef50_C4NV72
+contig_1	cds	158704	159687	-	DJILHJ_00975		ALP-N domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM71
+contig_1	oriT	159788	160185	?			origin of transfer	
+contig_1	cds	160186	160725	+	DJILHJ_00980	mobI	MobI	SO:0001217, UniRef:UniRef50_D3VM73
+contig_1	cds	160730	160999	+	DJILHJ_00985		Transposase	SO:0001217, UniRef:UniRef50_A0A1W6AQF9
+contig_2	cds	1	1101	+	DJILHJ_00990		Plasmid replication protein	SO:0001217, UniRef:UniRef50_A0A327Q1A0
+contig_2	cds	1447	1728	+	DJILHJ_00995		DUF4288 domain-containing protein	SO:0001217, UniRef:UniRef50_C4NUQ4
+contig_2	cds	2138	2572	-	DJILHJ_01000		DUF350 domain-containing protein	SO:0001217, UniRef:UniRef50_C4NUQ5
+contig_2	cds	2590	3705	-	DJILHJ_01005		PAPS-reduct domain-containing protein	SO:0001217, UniRef:UniRef50_N9DY99
+contig_2	cds	3974	4582	+	DJILHJ_01010		TGc domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM79
+contig_2	cds	4587	5108	+	DJILHJ_01015		RES domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM80
+contig_2	cds	5111	5632	+	DJILHJ_01020		PDDEXK-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A411H8I0
+contig_2	cds	5729	6202	+	DJILHJ_01025		Orphan protein	SO:0001217, UniRef:UniRef50_T0P0Q1
+contig_2	cds	6192	6506	+	DJILHJ_01030		DUF4149 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM84
+contig_2	cds	6511	7365	+	DJILHJ_01035		DNA invertase	SO:0001217, UniRef:UniRef50_D3VM85
+contig_2	cds	7365	8324	+	DJILHJ_01040	sppA	Signal peptide peptidase SppA	SO:0001217, UniRef:UniRef50_A0A2D5RUZ7
+contig_2	cds	8340	9203	+	DJILHJ_01045		Thioredoxin domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM87
+contig_2	cds	9237	9665	+	DJILHJ_01050		Lipoprotein	SO:0001217, UniRef:UniRef50_D3VM88
+contig_2	cds	9722	10084	+	DJILHJ_01055		DUF4391 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM89
+contig_2	cds	10077	11075	+	DJILHJ_01060		hypothetical protein	
+contig_2	cds	11085	11531	+	DJILHJ_01065		Fe3+-siderophore ABC transporter permease	SO:0001217, UniRef:UniRef50_D3VM90
+contig_2	cds	11528	12046	+	DJILHJ_01070		Nitrite reductase	SO:0001217, UniRef:UniRef50_A0A095SFF3
+contig_2	cds	12049	12276	+	DJILHJ_01075		DUF1508 domain-containing protein	SO:0001217, UniRef:UniRef50_N2IR93
+contig_2	cds	12263	13120	+	DJILHJ_01080		DUF1995 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM92
+contig_2	cds	13146	13334	+	DJILHJ_01085		Prophage protein	SO:0001217, UniRef:UniRef50_A0A066PYA1
+contig_2	cds	13351	13878	+	DJILHJ_01090		TNase-like domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1P8DRA8
+contig_2	cds	13936	14208	+	DJILHJ_01095		DNA-binding protein HU-alpha	SO:0001217, UniRef:UniRef50_P52680
+contig_2	cds	14297	14590	+	DJILHJ_01100		hypothetical protein	
+contig_2	cds	14617	14919	-	DJILHJ_01105		hypothetical protein	PFAM:PF01381.25, PFAM:PF13744.9
+contig_2	cds	14924	15274	-	DJILHJ_01110		Type II toxin-antitoxin system RelE/ParE family toxin	SO:0001217, UniRef:UniRef50_B5XTR2
+contig_2	cds	15437	15985	+	DJILHJ_01115		Transcriptional regulator	SO:0001217, UniRef:UniRef50_W1JB53
+contig_2	cds	16326	16520	+	DJILHJ_01120		Paratox	SO:0001217, UniRef:UniRef50_D3VM98
+contig_2	cds	16531	16902	+	DJILHJ_01125		Phage protein	SO:0001217, UniRef:UniRef50_D3VM99
+contig_2	cds	16895	17365	+	DJILHJ_01130		DUF2846 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VMA0
+contig_2	cds	17380	17715	-	DJILHJ_01135		Permease	SO:0001217, UniRef:UniRef50_A0A501XRT9
+contig_2	cds	17812	18300	+	DJILHJ_01140		DUF1643 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A095ULH5
+contig_2	cds	18303	18800	+	DJILHJ_01145		50S ribosomal protein L11 methyltransferase	SO:0001217, UniRef:UniRef50_C4NUT2
+contig_2	cds	18904	19167	+	DJILHJ_01150		DUF1289 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A5B9B4E4
+contig_2	cds	19592	20296	-	DJILHJ_01155	tnp	IS6 family IS15DIV transposase	IS:IS15DIV, SO:0001217, UniRef:UniRef50_Q573Q1
+contig_2	cds	20343	20540	-	DJILHJ_01160	arsR	ArsR family transcriptional regulator	SO:0001217, UniRef:UniRef50_T2FLG5
+contig_2	cds	20645	21349	+	DJILHJ_01165	tnp	IS6 family IS15DIV transposase	IS:IS15DIV, SO:0001217, UniRef:UniRef50_Q573Q1
+contig_2	cds	21383	21874	-	DJILHJ_01170		hypothetical protein	
+contig_2	cds	21981	22718	+	DJILHJ_01175		Resolvase	SO:0001217, UniRef:UniRef50_P22996
+contig_2	cds	22715	22939	+	DJILHJ_01180		DEAD/DEAH box helicase	SO:0001217, UniRef:UniRef50_A0A553H3T3
+contig_2	cds	23150	24643	+	DJILHJ_01185		IS91-like element ISVsa3 family transposase	BlastRules:WP_061586541, SO:0001217, UniRef:UniRef50_A0A349X582
+contig_2	cds	24819	25121	-	DJILHJ_01190		Glm	SO:0001217, UniRef:UniRef50_Q6EZF2
+contig_2	cds	25208	26023	-	DJILHJ_01195	sul2	sulfonamide-resistant dihydropteroate synthase Sul2	NCBIProtein:WP_001043260.1, SO:0001217, UniRef:UniRef50_B3H353
+contig_2	cds	26330	26641	+	DJILHJ_01200		DUF5076 domain-containing protein	SO:0001217, UniRef:UniRef50_G2I992
+contig_2	cds	26815	27600	+	DJILHJ_01205	parA	ParA family protein	SO:0001217, UniRef:UniRef50_G2I993
+contig_2	cds	27604	28785	+	DJILHJ_01210	parB	ParB domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLR8
+contig_2	cds	28834	29106	+	DJILHJ_01215		DNA-binding protein	SO:0001217, UniRef:UniRef50_D3VLR9
+contig_2	cds	29159	29794	-	DJILHJ_01220		hypothetical protein	
+contig_2	cds	29886	30029	-	DJILHJ_01225		Rha family transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A8T3ULT6
+contig_2	cds	30348	30725	+	DJILHJ_01230		hypothetical protein	
+contig_2	cds	30718	30999	+	DJILHJ_01235		hypothetical protein	
+contig_2	cds	30974	31648	+	DJILHJ_01240		Thymidylate kinase	SO:0001217, UniRef:UniRef50_T0P5J8
+contig_2	cds	31641	32147	+	DJILHJ_01245		DnaJ-class molecular chaperone	SO:0001217, UniRef:UniRef50_W1JAR5
+contig_2	cds	32153	32464	+	DJILHJ_01250		Oxidoreductase	SO:0001217, UniRef:UniRef50_A0A0E3DRM0
+contig_2	cds	32473	32973	+	DJILHJ_01255		Recombinase	SO:0001217, UniRef:UniRef50_C4NUV9
+contig_2	cds	32977	34404	+	DJILHJ_01260		DNA (cytosine-5-)-methyltransferase	SO:0001217, UniRef:UniRef50_G0XAB6
+contig_2	cds	34404	35060	+	DJILHJ_01265		LAGLIDADG-2 domain-containing protein	SO:0001217, UniRef:UniRef50_W3VAM9
+contig_2	cds	34999	35262	+	DJILHJ_01270		hypothetical protein	
+contig_2	cds	35266	35484	+	DJILHJ_01275		DUF551 domain-containing protein	SO:0001217, UniRef:UniRef50_T0Q7T8
+contig_2	cds	35578	36195	+	DJILHJ_01280		Phage head-tail adapter protein	SO:0001217, UniRef:UniRef50_A0A095ULK4
+contig_2	cds	36196	36402	+	DJILHJ_01285		Transposase	SO:0001217, UniRef:UniRef50_G2I9A7
+contig_2	cds	36428	36706	+	DJILHJ_01290		ASCH domain-containing protein	SO:0001217, UniRef:UniRef50_A0A076FBD1
+contig_2	cds	36798	37286	-	DJILHJ_01295		Secreted protein	SO:0001217, UniRef:UniRef50_A0A221KL55
+contig_2	cds	37301	39493	-	DJILHJ_01300		DNA topoisomerase	SO:0001217, UniRef:UniRef50_C4NUW5
+contig_2	cds	39708	40325	-	DJILHJ_01305		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A189PG57
+contig_2	cds	40493	43465	+	DJILHJ_01310		TraI-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A8D6MI24
+contig_2	cds	43462	45327	+	DJILHJ_01315	traD	Type IV conjugative transfer system protein TraD	SO:0001217, UniRef:UniRef50_G2JBM9
+contig_2	cds	45338	45922	+	DJILHJ_01320		Conjugative transfer protein 234	SO:0001217, UniRef:UniRef50_T0Q8C2
+contig_2	cds	45879	46508	+	DJILHJ_01325		Integrating conjugative element protein	SO:0001217, UniRef:UniRef50_A0A0D5MAD7
+contig_2	cds	46518	46964	+	DJILHJ_01330		Transmembrane protein	SO:0001217, UniRef:UniRef50_D3VGK2
+contig_2	cds	46974	47351	+	DJILHJ_01335		Lipoprotein	SO:0001217, UniRef:UniRef50_C4NVT2
+contig_2	cds	47351	48013	+	DJILHJ_01340		Mu-like prophage FluMu protein gp29	SO:0001217, UniRef:UniRef50_D3VGK0
+contig_2	cds	48194	48337	+	DJILHJ_01345		Anaerobic dimethyl sulfoxide reductase chain C	SO:0001217, UniRef:UniRef50_G2I9C0
+contig_2	cds	48337	48714	+	DJILHJ_01350		Type VI secretion protein	SO:0001217, UniRef:UniRef50_T0P639
+contig_2	cds	48859	49140	+	DJILHJ_01355	traL	Type IV conjugative transfer system protein TraL	SO:0001217, UniRef:UniRef50_A0A6N3J2C5
+contig_2	cds	49137	49763	+	DJILHJ_01360	traE	TraE	SO:0001217, UniRef:UniRef50_A0A096H098
+contig_2	cds	49747	50664	+	DJILHJ_01365	traK	Conjugal transfer protein TraK	SO:0001217, UniRef:UniRef50_A0A095SGF0
+contig_2	cds	50661	51977	+	DJILHJ_01370		Conjugal transfer protein	SO:0001217, UniRef:UniRef50_A0A189PG65
+contig_2	cds	51974	52552	+	DJILHJ_01375	traV	Type IV conjugative transfer system protein TraV	SO:0001217, UniRef:UniRef50_A0A2T5EK51
+contig_2	cds	52565	52948	+	DJILHJ_01380	traA	Conjugal transfer protein TraA	SO:0001217, UniRef:UniRef50_A0A095SFV5
+contig_2	cds	53149	58680	+	DJILHJ_01385		DUF4165 domain-containing protein	SO:0001217, UniRef:UniRef50_G0XAD7
+contig_2	cds	59177	60565	+	DJILHJ_01390		RNA-directed DNA polymerase	SO:0001217, UniRef:UniRef50_A0A6D0KQN4
+contig_2	cds	60746	61453	+	DJILHJ_01395		Thiol:disulfide interchange protein	SO:0001217, UniRef:UniRef50_G0XAD8
+contig_2	cds	61450	63897	+	DJILHJ_01400	trhC	Sex pilus assembly protein TrhC	SO:0001217, UniRef:UniRef50_A0A2X2E092
+contig_2	cds	63912	64229	+	DJILHJ_01405		Conjugative transfer protein 345	SO:0001217, UniRef:UniRef50_D3VGI9
+contig_2	cds	64226	64756	+	DJILHJ_01410		Signal peptidase I	SO:0001217, UniRef:UniRef50_A0A1E3G7X0
+contig_2	cds	64776	65984	+	DJILHJ_01415	traW	Conjugal transfer protein TraW	SO:0001217, UniRef:UniRef50_D2YA00
+contig_2	cds	65981	66652	+	DJILHJ_01420	ydiV	Anti-FlhC(2)FlhD(4) factor YdiV	SO:0001217, UniRef:UniRef50_A0A5X4LGU5
+contig_2	cds	66649	67656	+	DJILHJ_01425	traU	Conjugal transfer protein TraU	SO:0001217, UniRef:UniRef50_N2IRC1
+contig_2	cds	67770	70511	+	DJILHJ_01430	traN	Conjugal transfer protein TraN	SO:0001217, UniRef:UniRef50_A0A7U9IT80
+contig_2	cds	70553	71413	-	DJILHJ_01435		Lipoprotein	SO:0001217, UniRef:UniRef50_D3VLV1
+contig_2	cds	71536	72186	-	DJILHJ_01440		DUF1845 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2D5RRK3
+contig_2	cds	72478	72798	+	DJILHJ_01445		DUF2500 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2T5EJG8
+contig_2	cds	72894	72986	+	DJILHJ_01450		Phage coat protein	SO:0001217, UniRef:UniRef50_A0A327Q126
+contig_2	cds	73103	73288	+	DJILHJ_01455		DUF4376 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2S4TLF3
+contig_2	cds	73507	74475	+	DJILHJ_01460		AAA ATPase protein	SO:0001217, UniRef:UniRef50_C4NVV9
+contig_2	cds	74486	75391	+	DJILHJ_01465		PLAT domain-containing protein	SO:0001217, UniRef:UniRef50_A0A377UV10
+contig_2	cds	75455	75982	+	DJILHJ_01470		Single-stranded DNA-binding protein	SO:0001217, UniRef:UniRef50_A0A345P7X1
+contig_2	cds	76077	77066	+	DJILHJ_01475		Bet	SO:0001217, UniRef:UniRef50_G0XBU7
+contig_2	cds	77129	78139	+	DJILHJ_01480	yqaJ	YqaJ domain-containing protein	SO:0001217, UniRef:UniRef50_A0A095SBQ3
+contig_2	cds	78339	79616	+	DJILHJ_01485		DUF3150 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLW1
+contig_2	cds	79701	81497	+	DJILHJ_01490		VWFA domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLW2
+contig_2	cds	81559	81894	+	DJILHJ_01495		DUF4158 domain-containing protein	SO:0001217, UniRef:UniRef50_C4NVW6
+contig_2	cds	82159	82698	+	DJILHJ_01500		DUF4065 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A095UGS7
+contig_2	cds	82779	83279	+	DJILHJ_01505		Cupin-8 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLW4
+contig_2	cds	83353	84237	+	DJILHJ_01510		DNA adenine modification methylase	SO:0001217, UniRef:UniRef50_A0A0D5MAU1
+contig_2	cds	84303	84527	+	DJILHJ_01515		2Fe-2S ferredoxin-type domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLW7
+contig_2	cds	84589	84978	+	DJILHJ_01520		hypothetical protein	
+contig_2	cds	84968	85414	+	DJILHJ_01525		Phage protein	SO:0001217, UniRef:UniRef50_D3VLW9
+contig_2	cds	85419	85694	+	DJILHJ_01530		DUF551 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A318L267
+contig_2	cds	85752	85943	+	DJILHJ_01535		DUF3077 domain-containing protein	SO:0001217, UniRef:UniRef50_T0P0R6
+contig_2	cds	86012	86365	+	DJILHJ_01540		Topoisomerase II	SO:0001217, UniRef:UniRef50_A0A0K2S3I2
+contig_2	cds	86558	86902	+	DJILHJ_01545		TPR repeat-containing protein	SO:0001217, UniRef:UniRef50_C4NUZ3
+contig_2	cds	86980	87282	+	DJILHJ_01550		Protein kinase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A189PGC2
+contig_2	cds	87360	88985	+	DJILHJ_01555		DNA (cytosine-5-)-methyltransferase	SO:0001217, UniRef:UniRef50_C4NUZ5
+contig_2	cds	89046	89477	+	DJILHJ_01560		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0A095SAN4
+contig_2	cds	89551	90105	+	DJILHJ_01565		hypothetical protein	
+contig_2	cds	90340	90633	+	DJILHJ_01570		DUF3024 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLX5
+contig_2	cds	90737	91123	+	DJILHJ_01575	tnpV	TnpV protein	SO:0001217, UniRef:UniRef50_A0A7Y4AWL4
+contig_2	cds	91211	93661	+	DJILHJ_01580		Phosphoadenosine phosphosulfate reductase	SO:0001217, UniRef:UniRef50_D3VLX7
+contig_2	cds	93862	94065	+	DJILHJ_01585		CID domain-containing protein	SO:0001217, UniRef:UniRef50_C4NV00
+contig_2	cds	94137	94742	+	DJILHJ_01590	yfbR	Nucleotidase YfbR	SO:0001217, UniRef:UniRef50_A0A377UQ92
+contig_2	cds	94735	95001	+	DJILHJ_01595		Bacteriophage protein	SO:0001217, UniRef:UniRef50_D3VLY0
+contig_2	cds	94998	95210	+	DJILHJ_01600		hypothetical protein	
+contig_2	cds	95280	95837	+	DJILHJ_01605		Pyruvate dehydrogenase	SO:0001217, UniRef:UniRef50_D3VLY2
+contig_2	cds	95913	96764	+	DJILHJ_01610	ngrC	NgrC	SO:0001217, UniRef:UniRef50_A0A0D4D9D3
+contig_2	cds	96969	97115	+	DJILHJ_01615		Transposase	SO:0001217, UniRef:UniRef50_G2I9H7
+contig_2	cds	97222	97608	+	DJILHJ_01620		hypothetical protein	
+contig_2	cds	97786	99513	+	DJILHJ_01625		Prim-Zn-Ribbon domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLY6
+contig_2	cds	99500	99778	+	DJILHJ_01630		Transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A379KCY9
+contig_2	cds	99851	100090	+	DJILHJ_01635		Permease	SO:0001217, UniRef:UniRef50_A0A411H8D0
+contig_2	cds	100100	100216	+	DJILHJ_01640		DUF3149 domain-containing protein	SO:0001217, UniRef:UniRef50_G2I9M2
+contig_2	cds	100337	100711	+	DJILHJ_01645	matP	MatP domain-containing protein	SO:0001217, UniRef:UniRef50_W1J8U3
+contig_2	cds	100825	101550	+	DJILHJ_01650		hypothetical protein	
+contig_2	cds	103794	104150	-	DJILHJ_01655		hypothetical protein	
+contig_2	cds	104686	104901	+	DJILHJ_01660	insB	InsB	SO:0001217, UniRef:UniRef50_B0LHG4
+contig_2	cds	105213	105872	+	DJILHJ_01665	catA1	type A-1 chloramphenicol O-acetyltransferase	NCBIProtein:WP_000412211.1, SO:0001217, UniRef:UniRef50_T2HJ32
+contig_2	cds	106073	106450	-	DJILHJ_01670		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_H6VZV0
+contig_2	cds	106761	107765	-	DJILHJ_01675	tnp	IS110 family IS4321 transposase	IS:IS4321, SO:0001217, UniRef:UniRef50_A0A193M262
+contig_2	cds	107844	110810	-	DJILHJ_01680		Tn3-like element TnAs3 family transposase	BlastRules:WP_001138064, SO:0001217, UniRef:UniRef50_P06694
+contig_2	cds	110813	111373	-	DJILHJ_01685		Resolvase/invertase-type recombinase catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_U7LC53
+contig_2	cds	111499	111699	-	DJILHJ_01690		DUF3330 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1B0RF04
+contig_2	cds	112052	113065	-	DJILHJ_01695	intI1	class 1 integron integrase IntI1	BlastRules:WP_000845054, SO:0001217, UniRef:UniRef50_A0A257FG49
+contig_2	ncRNA-region	113155	113220	+			putative aminoglycoside riboswitch / attI site	RFAM:RF02912, SO:0000035
+contig_2	cds	113210	113707	+	DJILHJ_01700	dfrA12	trimethoprim-resistant dihydrofolate reductase DfrA12	NCBIProtein:WP_001083725.1
+contig_2	cds	114127	114906	+	DJILHJ_01705	aadA2	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA2	NCBIProtein:WP_001206356.1, SO:0001217, UniRef:UniRef50_A0A0F1AMP2
+contig_2	cds	115070	115417	+	DJILHJ_01710	qacEdelta1	quaternary ammonium compound efflux SMR transporter QacE delta 1	NCBIProtein:WP_000679427.1, SO:0001217, UniRef:UniRef50_A0A2Z3XFM5
+contig_2	cds	115411	116250	+	DJILHJ_01715	sul1	sulfonamide-resistant dihydropteroate synthase Sul1	NCBIProtein:WP_000259031.1, SO:0001217, UniRef:UniRef50_A0A3M1L060
+contig_2	cds	116655	118196	+	DJILHJ_01720		IS91 family transposase	SO:0001217, UniRef:UniRef50_A0A349X582
+contig_2	cds	118655	119011	+	DJILHJ_01725		hypothetical protein	
+contig_2	cds	119022	119660	-	DJILHJ_01730		N-(5'-phosphoribosyl)anthranilate isomerase	SO:0001217, UniRef:UniRef50_F6IGT9
+contig_2	cds	119665	119925	-	DJILHJ_01735	ble	bleomycin binding protein Ble-MBL	NCBIProtein:WP_004201167.1
+contig_2	cds	120034	120846	-	DJILHJ_01740	blaNDM-1	subclass B1 metallo-beta-lactamase NDM-1	NCBIProtein:WP_004201164.1, SO:0001217, UniRef:UniRef50_A0A1P8SIZ4
+contig_2	cds	120947	121453	-	DJILHJ_01745		hypothetical protein	
+contig_2	cds	121558	122397	+	DJILHJ_01750	sul1	sulfonamide-resistant dihydropteroate synthase Sul1	NCBIProtein:WP_000259031.1, SO:0001217, UniRef:UniRef50_A0A3M1L060
+contig_2	cds	122802	124343	+	DJILHJ_01755		IS91 family transposase	SO:0001217, UniRef:UniRef50_A0A349X582
+contig_2	cds	124675	125331	+	DJILHJ_01760	qnrA1	quinolone resistance pentapeptide repeat protein QnrA1	NCBIProtein:WP_012579084.1, SO:0001217, UniRef:UniRef50_Q87K03
+contig_2	cds	125593	126735	+	DJILHJ_01765	cmlA5	chloramphenicol efflux MFS transporter CmlA5	NCBIProtein:WP_012300772.1
+contig_2	cds	126927	127274	+	DJILHJ_01770	qacEdelta1	quaternary ammonium compound efflux SMR transporter QacE delta 1	NCBIProtein:WP_000679427.1, SO:0001217, UniRef:UniRef50_A0A2Z3XFM5
+contig_2	cds	127268	128107	+	DJILHJ_01775	sul1	sulfonamide-resistant dihydropteroate synthase Sul1	NCBIProtein:WP_000259031.1, SO:0001217, UniRef:UniRef50_A0A3M1L060
+contig_2	cds	128235	128507	+	DJILHJ_01780		hypothetical protein	
+contig_2	cds	128689	129693	-	DJILHJ_01785	tnp	IS110 family IS5075 transposase	IS:IS5075, SO:0001217, UniRef:UniRef50_A0A193M262
+contig_2	cds	129921	131126	+	DJILHJ_01790		Chromate efflux transporter	SO:0001217, UniRef:UniRef50_A0A2N9CKB0
+contig_2	cds	131137	131442	+	DJILHJ_01795		hypothetical protein	PFAM:PF03551.17, PFAM:PF13601.9
+contig_2	cds	131669	132433	+	DJILHJ_01800		IS6-like element IS6100 family transposase	BlastRules:WP_001389365, SO:0001217, UniRef:UniRef50_A0A5P9CVE5
+contig_2	cds	132926	133510	-	DJILHJ_01805		Macrolide 2'-phosphotransferase I repressor A, erythromycin resistance repressor protein	SO:0001217, UniRef:UniRef50_A0A023UEV3
+contig_2	cds	133510	134748	-	DJILHJ_01810		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_V0V4R8
+contig_2	cds	134745	135650	-	DJILHJ_01815	mph(A)	Mph(A) family macrolide 2'-phosphotransferase	NCBIProtein:WP_000219391.1, SO:0001217, UniRef:UniRef50_Q47396
+contig_2	cds	135772	136476	-	DJILHJ_01820	tnp	IS6 family IS15DIV transposase	IS:IS15DIV, SO:0001217, UniRef:UniRef50_Q573Q1
+contig_2	cds	136627	137442	+	DJILHJ_01825	aph(3')-Ia	aminoglycoside O-phosphotransferase APH(3')-Ia	NCBIProtein:WP_000018329.1, SO:0001217, UniRef:UniRef50_P00551
+contig_2	cds	137632	138336	-	DJILHJ_01830	tnp	IS6 family IS15DIV transposase	IS:IS15DIV, SO:0001217, UniRef:UniRef50_Q573Q1
+contig_2	cds	138383	139651	-	DJILHJ_01835		Integrase catalytic region	SO:0001217, UniRef:UniRef50_C5TC55
+contig_2	cds	139726	140433	-	DJILHJ_01840		hypothetical protein	PFAM:PF00563.23
+contig_2	cds	140430	140666	-	DJILHJ_01845	merE	broad-spectrum mercury transporter MerE	NCBIFam:NF010310.2, SO:0001217, UniRef:UniRef50_Q935L2
+contig_2	cds	140663	141025	-	DJILHJ_01850	merD	mercury resistance co-regulator MerD	NCBIFam:NF033783.1, SO:0001217, UniRef:UniRef50_A0A2R3IL41
+contig_2	cds	141043	142737	-	DJILHJ_01855	merA	mercury(II) reductase	NCBIFam:TIGR02053.1, SO:0001217, UniRef:UniRef50_P00392
+contig_2	cds	142789	143211	-	DJILHJ_01860	merC	organomercurial transporter MerC	NCBIProtein:AAC33908.1, SO:0001217, UniRef:UniRef50_A0A0A1H6J0
+contig_2	cds	143247	143522	-	DJILHJ_01865	merP	mercury resistance system periplasmic binding protein MerP	NCBIProtein:AAC38219.1, SO:0001217, UniRef:UniRef50_A0A2N8MEQ2
+contig_2	cds	143536	143886	-	DJILHJ_01870	merT	mercuric transport protein MerT	NCBIProtein:AAB59075.1, SO:0001217, UniRef:UniRef50_A0A515EQQ8
+contig_2	cds	143958	144392	+	DJILHJ_01875	merR	mercury resistance transcriptional regulator MerR	NCBIProtein:CAA77320.1, SO:0001217, UniRef:UniRef50_A0A2W5FYV2
+contig_2	cds	144471	145475	+	DJILHJ_01880	tnp	IS110 family IS4321 transposase	IS:IS4321, SO:0001217, UniRef:UniRef50_A0A193M262
+contig_2	cds	146275	146490	+	DJILHJ_01885	insB	InsB	SO:0001217, UniRef:UniRef50_B0LHG4
+contig_2	cds	146574	146822	-	DJILHJ_01890		hypothetical protein	
+contig_2	cds	147082	147363	+	DJILHJ_01895		STAS domain-containing protein	SO:0001217, UniRef:UniRef50_C4NV54
+contig_2	cds	147382	147663	+	DJILHJ_01900		hypothetical protein	
+contig_2	cds	147673	148203	+	DJILHJ_01905		Protein tyrosine phosphatase	SO:0001217, UniRef:UniRef50_A0A095SG67
+contig_2	cds	148206	149216	+	DJILHJ_01910		Integrase/recombinase	SO:0001217, UniRef:UniRef50_N1NTV4
+contig_2	cds	149221	150090	+	DJILHJ_01915		3'-5' exonuclease	SO:0001217, UniRef:UniRef50_C4NW33
+contig_2	cds	150087	150578	+	DJILHJ_01920		Protein singed	SO:0001217, UniRef:UniRef50_A0A1V0M4G1
+contig_2	cds	150895	151770	+	DJILHJ_01925		DNA replication terminus site-binding protein	SO:0001217, UniRef:UniRef50_D3VM13
+contig_2	cds	151923	152963	+	DJILHJ_01930	kfrA	ATPase-like KfrA protein	SO:0001217, UniRef:UniRef50_C4NV61
+contig_2	cds	152963	153241	+	DJILHJ_01935		PaREP7	SO:0001217, UniRef:UniRef50_D3VM64
+contig_2	cds	153250	154761	+	DJILHJ_01940		DNA helicase	SO:0001217, UniRef:UniRef50_C4NV62
+contig_2	cds	154872	155912	+	DJILHJ_01945	traF	Conjugal transfer protein TraF	SO:0001217, UniRef:UniRef50_A0A0M2DWM0
+contig_2	cds	155914	157347	+	DJILHJ_01950	traH	Conjugal transfer protein TraH	SO:0001217, UniRef:UniRef50_A0A4P6ZIP0
+contig_2	cds	157360	160974	+	DJILHJ_01955		TraG-N domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3T1A4Q5
+contig_2	cds	161011	161373	-	DJILHJ_01960		Permease	SO:0001217, UniRef:UniRef50_T0P137
+contig_2	cds	162089	162361	+	DJILHJ_01965		Nucleotide excision repair protein	SO:0001217, UniRef:UniRef50_A0A411H8I6
+contig_2	cds	162361	162894	+	DJILHJ_01970		SLT domain-containing protein	SO:0001217, UniRef:UniRef50_A0A189PGJ4
+contig_2	cds	162904	163512	+	DJILHJ_01975		Transcriptional regulator	SO:0001217, UniRef:UniRef50_W3VAB0
+contig_2	cds	163509	164060	+	DJILHJ_01980		Regulator	SO:0001217, UniRef:UniRef50_A0A084T2L2
+contig_2	cds	164120	164539	-	DJILHJ_01985		HNS domain-containing protein	SO:0001217, UniRef:UniRef50_T0Q823
+contig_2	cds	164541	164834	-	DJILHJ_01990		Inner membrane protein	SO:0001217, UniRef:UniRef50_C4NV72
+contig_2	cds	164851	165834	-	DJILHJ_01995		ALP-N domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM71
+contig_2	cds	166333	166872	+	DJILHJ_02000	mobI	MobI	SO:0001217, UniRef:UniRef50_D3VM73
+contig_2	cds	166877	167146	+	DJILHJ_02005		Transposase	SO:0001217, UniRef:UniRef50_A0A1W6AQF9
+contig_3	cds	70	975	+	DJILHJ_02010	mph(A)	Mph(A) family macrolide 2'-phosphotransferase	NCBIProtein:WP_000219391.1, SO:0001217, UniRef:UniRef50_Q47396
+contig_3	cds	972	2210	+	DJILHJ_02015		MFS domain-containing protein	SO:0001217, UniRef:UniRef50_V0V4R8
+contig_3	cds	2210	2794	+	DJILHJ_02020		Macrolide 2'-phosphotransferase I repressor A, erythromycin resistance repressor protein	SO:0001217, UniRef:UniRef50_A0A023UEV3
+contig_3	cds	3287	4051	-	DJILHJ_02025		IS6-like element IS6100 family transposase	BlastRules:WP_001389365, SO:0001217, UniRef:UniRef50_A0A5P9CVE5
+contig_3	cds	4278	4583	-	DJILHJ_02030		hypothetical protein	PFAM:PF03551.17, PFAM:PF13601.9
+contig_3	cds	4594	5799	-	DJILHJ_02035		Chromate efflux transporter	SO:0001217, UniRef:UniRef50_A0A2N9CKB0
+contig_3	cds	6027	7082	+	DJILHJ_02040		hypothetical protein	
+contig_3	cds	7211	7483	-	DJILHJ_02045		hypothetical protein	
+contig_3	cds	7621	8448	-	DJILHJ_02050	sul1	sulfonamide-resistant dihydropteroate synthase Sul1	NCBIProtein:WP_063855066.1
+contig_3	cds	8442	8789	-	DJILHJ_02055	qacEdelta1	quaternary ammonium compound efflux SMR transporter QacE delta 1	NCBIProtein:WP_000679427.1, SO:0001217, UniRef:UniRef50_A0A2Z3XFM5
+contig_3	cds	8981	10123	-	DJILHJ_02060	cmlA5	chloramphenicol efflux MFS transporter CmlA5	NCBIProtein:WP_012300772.1
+contig_3	cds	10385	11041	-	DJILHJ_02065	qnrA1	quinolone resistance pentapeptide repeat protein QnrA1	NCBIProtein:WP_012579084.1, SO:0001217, UniRef:UniRef50_Q87K03
+contig_3	cds	11373	12914	-	DJILHJ_02070		IS91 family transposase	SO:0001217, UniRef:UniRef50_A0A349X582
+contig_3	cds	13319	14158	-	DJILHJ_02075	sul1	sulfonamide-resistant dihydropteroate synthase Sul1	NCBIProtein:WP_000259031.1, SO:0001217, UniRef:UniRef50_A0A3M1L060
+contig_3	cds	14263	14769	+	DJILHJ_02080		hypothetical protein	
+contig_3	cds	14870	15682	+	DJILHJ_02085	blaNDM-1	subclass B1 metallo-beta-lactamase NDM-1	NCBIProtein:WP_004201164.1, SO:0001217, UniRef:UniRef50_A0A1P8SIZ4
+contig_3	cds	15791	16051	+	DJILHJ_02090	ble	bleomycin binding protein Ble-MBL	NCBIProtein:WP_004201167.1
+contig_3	cds	16056	16694	+	DJILHJ_02095		N-(5'-phosphoribosyl)anthranilate isomerase	SO:0001217, UniRef:UniRef50_F6IGT9
+contig_3	cds	16705	17061	-	DJILHJ_02100		hypothetical protein	
+contig_3	cds	17520	19061	-	DJILHJ_02105		IS91 family transposase	SO:0001217, UniRef:UniRef50_A0A349X582
+contig_3	cds	19466	20305	-	DJILHJ_02110	sul1	sulfonamide-resistant dihydropteroate synthase Sul1	NCBIProtein:WP_000259031.1, SO:0001217, UniRef:UniRef50_A0A3M1L060
+contig_3	cds	20299	20646	-	DJILHJ_02115	qacEdelta1	quaternary ammonium compound efflux SMR transporter QacE delta 1	NCBIProtein:WP_000679427.1, SO:0001217, UniRef:UniRef50_A0A2Z3XFM5
+contig_3	cds	20810	21589	-	DJILHJ_02120	aadA2	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA2	NCBIProtein:WP_001206356.1, SO:0001217, UniRef:UniRef50_A0A0F1AMP2
+contig_3	cds	22009	22506	-	DJILHJ_02125	dfrA12	trimethoprim-resistant dihydrofolate reductase DfrA12	NCBIProtein:WP_001083725.1
+contig_3	ncRNA-region	22496	22561	-			putative aminoglycoside riboswitch / attI site	RFAM:RF02912, SO:0000035
+contig_3	cds	22651	23664	+	DJILHJ_02130	intI1	class 1 integron integrase IntI1	BlastRules:WP_000845054, SO:0001217, UniRef:UniRef50_A0A257FG49
+contig_3	cds	24017	24217	+	DJILHJ_02135		DUF3330 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1B0RF04
+contig_3	cds	24343	24903	+	DJILHJ_02140		Resolvase/invertase-type recombinase catalytic domain-containing protein	SO:0001217, UniRef:UniRef50_U7LC53
+contig_3	cds	24906	27872	+	DJILHJ_02145		Tn3-like element TnAs3 family transposase	BlastRules:WP_001138064, SO:0001217, UniRef:UniRef50_P06694
+contig_3	cds	27951	28955	+	DJILHJ_02150	tnp	IS110 family IS4321 transposase	IS:IS4321, SO:0001217, UniRef:UniRef50_A0A193M262
+contig_3	cds	29266	29643	+	DJILHJ_02155		N-acetyltransferase domain-containing protein	SO:0001217, UniRef:UniRef50_H6VZV0
+contig_3	cds	29844	30503	-	DJILHJ_02160	catA1	type A-1 chloramphenicol O-acetyltransferase	NCBIProtein:WP_000412211.1, SO:0001217, UniRef:UniRef50_T2HJ32
+contig_3	cds	30815	31030	-	DJILHJ_02165	insB	InsB	SO:0001217, UniRef:UniRef50_B0LHG4
+contig_3	cds	31566	31922	+	DJILHJ_02170		hypothetical protein	
+contig_3	cds	34166	34891	-	DJILHJ_02175		hypothetical protein	
+contig_3	cds	35005	35379	-	DJILHJ_02180	matP	MatP domain-containing protein	SO:0001217, UniRef:UniRef50_W1J8U3
+contig_3	cds	35500	35616	-	DJILHJ_02185		DUF3149 domain-containing protein	SO:0001217, UniRef:UniRef50_G2I9M2
+contig_3	cds	35626	35865	-	DJILHJ_02190		Permease	SO:0001217, UniRef:UniRef50_A0A411H8D0
+contig_3	cds	35938	36216	-	DJILHJ_02195		Transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A379KCY9
+contig_3	cds	36203	37930	-	DJILHJ_02200		Prim-Zn-Ribbon domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLY6
+contig_3	cds	38108	38494	-	DJILHJ_02205		hypothetical protein	
+contig_3	cds	38601	38747	-	DJILHJ_02210		Transposase	SO:0001217, UniRef:UniRef50_G2I9H7
+contig_3	cds	38952	39803	-	DJILHJ_02215	ngrC	NgrC	SO:0001217, UniRef:UniRef50_A0A0D4D9D3
+contig_3	cds	39879	40436	-	DJILHJ_02220		Pyruvate dehydrogenase	SO:0001217, UniRef:UniRef50_D3VLY2
+contig_3	cds	40506	40718	-	DJILHJ_02225		hypothetical protein	
+contig_3	cds	40715	40981	-	DJILHJ_02230		Bacteriophage protein	SO:0001217, UniRef:UniRef50_D3VLY0
+contig_3	cds	40974	41579	-	DJILHJ_02235	yfbR	Nucleotidase YfbR	SO:0001217, UniRef:UniRef50_A0A377UQ92
+contig_3	cds	41651	41854	-	DJILHJ_02240		CID domain-containing protein	SO:0001217, UniRef:UniRef50_C4NV00
+contig_3	cds	42055	44505	-	DJILHJ_02245		Phosphoadenosine phosphosulfate reductase	SO:0001217, UniRef:UniRef50_D3VLX7
+contig_3	cds	44593	44979	-	DJILHJ_02250	tnpV	TnpV protein	SO:0001217, UniRef:UniRef50_A0A7Y4AWL4
+contig_3	cds	45083	45376	-	DJILHJ_02255		DUF3024 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLX5
+contig_3	cds	45611	46165	-	DJILHJ_02260		hypothetical protein	
+contig_3	cds	46239	46670	-	DJILHJ_02265		Transmembrane protein	SO:0001217, UniRef:UniRef50_A0A095SAN4
+contig_3	cds	46731	48356	-	DJILHJ_02270		DNA (cytosine-5-)-methyltransferase	SO:0001217, UniRef:UniRef50_C4NUZ5
+contig_3	cds	48434	48736	-	DJILHJ_02275		Protein kinase domain-containing protein	SO:0001217, UniRef:UniRef50_A0A189PGC2
+contig_3	cds	48814	49158	-	DJILHJ_02280		TPR repeat-containing protein	SO:0001217, UniRef:UniRef50_C4NUZ3
+contig_3	cds	49351	49704	-	DJILHJ_02285		Topoisomerase II	SO:0001217, UniRef:UniRef50_A0A0K2S3I2
+contig_3	cds	49773	49964	-	DJILHJ_02290		DUF3077 domain-containing protein	SO:0001217, UniRef:UniRef50_T0P0R6
+contig_3	cds	50022	50297	-	DJILHJ_02295		DUF551 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A318L267
+contig_3	cds	50302	50748	-	DJILHJ_02300		Phage protein	SO:0001217, UniRef:UniRef50_D3VLW9
+contig_3	cds	50738	51127	-	DJILHJ_02305		hypothetical protein	
+contig_3	cds	51189	51413	-	DJILHJ_02310		2Fe-2S ferredoxin-type domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLW7
+contig_3	cds	51479	52363	-	DJILHJ_02315		DNA adenine modification methylase	SO:0001217, UniRef:UniRef50_A0A0D5MAU1
+contig_3	cds	52437	52937	-	DJILHJ_02320		Cupin-8 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLW4
+contig_3	cds	53018	53557	-	DJILHJ_02325		DUF4065 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A095UGS7
+contig_3	cds	53822	54157	-	DJILHJ_02330		DUF4158 domain-containing protein	SO:0001217, UniRef:UniRef50_C4NVW6
+contig_3	cds	54219	56015	-	DJILHJ_02335		VWFA domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLW2
+contig_3	cds	56100	57377	-	DJILHJ_02340		DUF3150 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLW1
+contig_3	cds	57577	58587	-	DJILHJ_02345	yqaJ	YqaJ domain-containing protein	SO:0001217, UniRef:UniRef50_A0A095SBQ3
+contig_3	cds	58650	59639	-	DJILHJ_02350		Bet	SO:0001217, UniRef:UniRef50_G0XBU7
+contig_3	cds	59734	60261	-	DJILHJ_02355		Single-stranded DNA-binding protein	SO:0001217, UniRef:UniRef50_A0A345P7X1
+contig_3	cds	60325	61230	-	DJILHJ_02360		PLAT domain-containing protein	SO:0001217, UniRef:UniRef50_A0A377UV10
+contig_3	cds	61241	62209	-	DJILHJ_02365		AAA ATPase protein	SO:0001217, UniRef:UniRef50_C4NVV9
+contig_3	cds	62428	62613	-	DJILHJ_02370		DUF4376 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2S4TLF3
+contig_3	cds	62730	62822	-	DJILHJ_02375		Phage coat protein	SO:0001217, UniRef:UniRef50_A0A327Q126
+contig_3	cds	62918	63238	-	DJILHJ_02380		DUF2500 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2T5EJG8
+contig_3	cds	63530	64180	+	DJILHJ_02385		DUF1845 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A2D5RRK3
+contig_3	cds	64303	65163	+	DJILHJ_02390		Lipoprotein	SO:0001217, UniRef:UniRef50_D3VLV1
+contig_3	cds	65205	67946	-	DJILHJ_02395	traN	Conjugal transfer protein TraN	SO:0001217, UniRef:UniRef50_A0A7U9IT80
+contig_3	cds	68060	69067	-	DJILHJ_02400	traU	Conjugal transfer protein TraU	SO:0001217, UniRef:UniRef50_N2IRC1
+contig_3	cds	69064	69735	-	DJILHJ_02405	ydiV	Anti-FlhC(2)FlhD(4) factor YdiV	SO:0001217, UniRef:UniRef50_A0A5X4LGU5
+contig_3	cds	69732	70940	-	DJILHJ_02410	traW	Conjugal transfer protein TraW	SO:0001217, UniRef:UniRef50_D2YA00
+contig_3	cds	70960	71490	-	DJILHJ_02415		Signal peptidase I	SO:0001217, UniRef:UniRef50_A0A1E3G7X0
+contig_3	cds	71487	71804	-	DJILHJ_02420		Conjugative transfer protein 345	SO:0001217, UniRef:UniRef50_D3VGI9
+contig_3	cds	71819	74266	-	DJILHJ_02425	trhC	Sex pilus assembly protein TrhC	SO:0001217, UniRef:UniRef50_A0A2X2E092
+contig_3	cds	74263	74970	-	DJILHJ_02430		Thiol:disulfide interchange protein	SO:0001217, UniRef:UniRef50_G0XAD8
+contig_3	cds	75151	76539	-	DJILHJ_02435		RNA-directed DNA polymerase	SO:0001217, UniRef:UniRef50_A0A6D0KQN4
+contig_3	cds	77036	82567	-	DJILHJ_02440		DUF4165 domain-containing protein	SO:0001217, UniRef:UniRef50_G0XAD7
+contig_3	cds	82768	83151	-	DJILHJ_02445	traA	Conjugal transfer protein TraA	SO:0001217, UniRef:UniRef50_A0A095SFV5
+contig_3	cds	83164	83742	-	DJILHJ_02450	traV	Type IV conjugative transfer system protein TraV	SO:0001217, UniRef:UniRef50_A0A2T5EK51
+contig_3	cds	83739	85055	-	DJILHJ_02455		Conjugal transfer protein	SO:0001217, UniRef:UniRef50_A0A189PG65
+contig_3	cds	85052	85969	-	DJILHJ_02460	traK	Conjugal transfer protein TraK	SO:0001217, UniRef:UniRef50_A0A095SGF0
+contig_3	cds	85953	86579	-	DJILHJ_02465	traE	TraE	SO:0001217, UniRef:UniRef50_A0A096H098
+contig_3	cds	86576	86857	-	DJILHJ_02470	traL	Type IV conjugative transfer system protein TraL	SO:0001217, UniRef:UniRef50_A0A6N3J2C5
+contig_3	cds	87002	87379	-	DJILHJ_02475		Type VI secretion protein	SO:0001217, UniRef:UniRef50_T0P639
+contig_3	cds	87379	87522	-	DJILHJ_02480		Anaerobic dimethyl sulfoxide reductase chain C	SO:0001217, UniRef:UniRef50_G2I9C0
+contig_3	cds	87703	88365	-	DJILHJ_02485		Mu-like prophage FluMu protein gp29	SO:0001217, UniRef:UniRef50_D3VGK0
+contig_3	cds	88365	88742	-	DJILHJ_02490		Lipoprotein	SO:0001217, UniRef:UniRef50_C4NVT2
+contig_3	cds	88752	89198	-	DJILHJ_02495		Transmembrane protein	SO:0001217, UniRef:UniRef50_D3VGK2
+contig_3	cds	89208	89837	-	DJILHJ_02500		Integrating conjugative element protein	SO:0001217, UniRef:UniRef50_A0A0D5MAD7
+contig_3	cds	89794	90378	-	DJILHJ_02505		Conjugative transfer protein 234	SO:0001217, UniRef:UniRef50_T0Q8C2
+contig_3	cds	90389	92254	-	DJILHJ_02510	traD	Type IV conjugative transfer system protein TraD	SO:0001217, UniRef:UniRef50_G2JBM9
+contig_3	cds	92251	95223	-	DJILHJ_02515		TraI-2 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A8D6MI24
+contig_3	cds	95391	96008	+	DJILHJ_02520		Lipoprotein	SO:0001217, UniRef:UniRef50_A0A189PG57
+contig_3	cds	96223	98415	+	DJILHJ_02525		DNA topoisomerase	SO:0001217, UniRef:UniRef50_C4NUW5
+contig_3	cds	98430	98918	+	DJILHJ_02530		Secreted protein	SO:0001217, UniRef:UniRef50_A0A221KL55
+contig_3	cds	99010	99288	-	DJILHJ_02535		ASCH domain-containing protein	SO:0001217, UniRef:UniRef50_A0A076FBD1
+contig_3	cds	99314	99520	-	DJILHJ_02540		Transposase	SO:0001217, UniRef:UniRef50_G2I9A7
+contig_3	cds	99521	100138	-	DJILHJ_02545		Phage head-tail adapter protein	SO:0001217, UniRef:UniRef50_A0A095ULK4
+contig_3	cds	100232	100450	-	DJILHJ_02550		DUF551 domain-containing protein	SO:0001217, UniRef:UniRef50_T0Q7T8
+contig_3	cds	100454	100717	-	DJILHJ_02555		hypothetical protein	
+contig_3	cds	100656	101312	-	DJILHJ_02560		LAGLIDADG-2 domain-containing protein	SO:0001217, UniRef:UniRef50_W3VAM9
+contig_3	cds	101312	102739	-	DJILHJ_02565		DNA (cytosine-5-)-methyltransferase	SO:0001217, UniRef:UniRef50_G0XAB6
+contig_3	cds	102743	103243	-	DJILHJ_02570		Recombinase	SO:0001217, UniRef:UniRef50_C4NUV9
+contig_3	cds	103252	103563	-	DJILHJ_02575		Oxidoreductase	SO:0001217, UniRef:UniRef50_A0A0E3DRM0
+contig_3	cds	103569	104075	-	DJILHJ_02580		DnaJ-class molecular chaperone	SO:0001217, UniRef:UniRef50_W1JAR5
+contig_3	cds	104068	104742	-	DJILHJ_02585		Thymidylate kinase	SO:0001217, UniRef:UniRef50_T0P5J8
+contig_3	cds	104717	104998	-	DJILHJ_02590		hypothetical protein	
+contig_3	cds	104991	105368	-	DJILHJ_02595		hypothetical protein	
+contig_3	cds	105687	105830	+	DJILHJ_02600		Rha family transcriptional regulator	SO:0001217, UniRef:UniRef50_A0A8T3ULT6
+contig_3	cds	105922	106557	+	DJILHJ_02605		hypothetical protein	
+contig_3	cds	106610	106882	-	DJILHJ_02610		DNA-binding protein	SO:0001217, UniRef:UniRef50_D3VLR9
+contig_3	cds	106931	108112	-	DJILHJ_02615	parB	ParB domain-containing protein	SO:0001217, UniRef:UniRef50_D3VLR8
+contig_3	cds	108116	108901	-	DJILHJ_02620	parA	ParA family protein	SO:0001217, UniRef:UniRef50_G2I993
+contig_3	cds	109075	109386	-	DJILHJ_02625		DUF5076 domain-containing protein	SO:0001217, UniRef:UniRef50_G2I992
+contig_3	cds	109693	110508	+	DJILHJ_02630	sul2	sulfonamide-resistant dihydropteroate synthase Sul2	NCBIProtein:WP_001043260.1, SO:0001217, UniRef:UniRef50_B3H353
+contig_3	cds	110595	110897	+	DJILHJ_02635		Glm	SO:0001217, UniRef:UniRef50_Q6EZF2
+contig_3	cds	111073	112566	-	DJILHJ_02640		IS91-like element ISVsa3 family transposase	BlastRules:WP_061586541, SO:0001217, UniRef:UniRef50_A0A349X582
+contig_3	cds	112777	113001	-	DJILHJ_02645		DEAD/DEAH box helicase	SO:0001217, UniRef:UniRef50_A0A553H3T3
+contig_3	cds	112998	113735	-	DJILHJ_02650		Resolvase	SO:0001217, UniRef:UniRef50_P22996
+contig_3	cds	113842	114333	+	DJILHJ_02655		hypothetical protein	
+contig_3	cds	114367	115071	-	DJILHJ_02660	tnp	IS6 family IS15DIV transposase	IS:IS15DIV, SO:0001217, UniRef:UniRef50_Q573Q1
+contig_3	cds	115176	115373	+	DJILHJ_02665	arsR	ArsR family transcriptional regulator	SO:0001217, UniRef:UniRef50_T2FLG5
+contig_3	cds	115420	116124	+	DJILHJ_02670	tnp	IS6 family IS15DIV transposase	IS:IS15DIV, SO:0001217, UniRef:UniRef50_Q573Q1
+contig_3	cds	116549	116812	-	DJILHJ_02675		DUF1289 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A5B9B4E4
+contig_3	cds	116916	117413	-	DJILHJ_02680		50S ribosomal protein L11 methyltransferase	SO:0001217, UniRef:UniRef50_C4NUT2
+contig_3	cds	117416	117904	-	DJILHJ_02685		DUF1643 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A095ULH5
+contig_3	cds	118001	118336	+	DJILHJ_02690		Permease	SO:0001217, UniRef:UniRef50_A0A501XRT9
+contig_3	cds	118351	118821	-	DJILHJ_02695		DUF2846 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VMA0
+contig_3	cds	118814	119185	-	DJILHJ_02700		Phage protein	SO:0001217, UniRef:UniRef50_D3VM99
+contig_3	cds	119196	119390	-	DJILHJ_02705		Paratox	SO:0001217, UniRef:UniRef50_D3VM98
+contig_3	cds	119731	120279	-	DJILHJ_02710		Transcriptional regulator	SO:0001217, UniRef:UniRef50_W1JB53
+contig_3	cds	120442	120792	+	DJILHJ_02715		Type II toxin-antitoxin system RelE/ParE family toxin	SO:0001217, UniRef:UniRef50_B5XTR2
+contig_3	cds	120797	121099	+	DJILHJ_02720		hypothetical protein	PFAM:PF01381.25, PFAM:PF13744.9
+contig_3	cds	121126	121419	-	DJILHJ_02725		hypothetical protein	
+contig_3	cds	121508	121780	-	DJILHJ_02730		DNA-binding protein HU-alpha	SO:0001217, UniRef:UniRef50_P52680
+contig_3	cds	121838	122365	-	DJILHJ_02735		TNase-like domain-containing protein	SO:0001217, UniRef:UniRef50_A0A1P8DRA8
+contig_3	cds	122382	122570	-	DJILHJ_02740		Prophage protein	SO:0001217, UniRef:UniRef50_A0A066PYA1
+contig_3	cds	122596	123453	-	DJILHJ_02745		DUF1995 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM92
+contig_3	cds	123440	123667	-	DJILHJ_02750		DUF1508 domain-containing protein	SO:0001217, UniRef:UniRef50_N2IR93
+contig_3	cds	123670	124188	-	DJILHJ_02755		Nitrite reductase	SO:0001217, UniRef:UniRef50_A0A095SFF3
+contig_3	cds	124185	124631	-	DJILHJ_02760		Fe3+-siderophore ABC transporter permease	SO:0001217, UniRef:UniRef50_D3VM90
+contig_3	cds	124641	125639	-	DJILHJ_02765		hypothetical protein	
+contig_3	cds	125632	125994	-	DJILHJ_02770		DUF4391 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM89
+contig_3	cds	126051	126479	-	DJILHJ_02775		Lipoprotein	SO:0001217, UniRef:UniRef50_D3VM88
+contig_3	cds	126513	127376	-	DJILHJ_02780		Thioredoxin domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM87
+contig_3	cds	127392	128351	-	DJILHJ_02785	sppA	Signal peptide peptidase SppA	SO:0001217, UniRef:UniRef50_A0A2D5RUZ7
+contig_3	cds	128351	129205	-	DJILHJ_02790		DNA invertase	SO:0001217, UniRef:UniRef50_D3VM85
+contig_3	cds	129210	129524	-	DJILHJ_02795		DUF4149 domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM84
+contig_3	cds	129514	129987	-	DJILHJ_02800		Orphan protein	SO:0001217, UniRef:UniRef50_T0P0Q1
+contig_3	cds	130084	130605	-	DJILHJ_02805		PDDEXK-1 domain-containing protein	SO:0001217, UniRef:UniRef50_A0A411H8I0
+contig_3	cds	130608	131129	-	DJILHJ_02810		RES domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM80
+contig_3	cds	131134	131742	-	DJILHJ_02815		TGc domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM79
+contig_3	cds	132011	133126	+	DJILHJ_02820		PAPS-reduct domain-containing protein	SO:0001217, UniRef:UniRef50_N9DY99
+contig_3	cds	133144	133578	+	DJILHJ_02825		DUF350 domain-containing protein	SO:0001217, UniRef:UniRef50_C4NUQ5
+contig_3	cds	133988	134269	-	DJILHJ_02830		DUF4288 domain-containing protein	SO:0001217, UniRef:UniRef50_C4NUQ4
+contig_3	cds	134615	135679	-	DJILHJ_02835		Plasmid replication protein	SO:0001217, UniRef:UniRef50_A0A327Q1A0
+contig_3	cds	135700	135987	-	DJILHJ_02840		Transposase	SO:0001217, UniRef:UniRef50_A0A1W6AQF9
+contig_3	cds	135992	136531	-	DJILHJ_02845	mobI	MobI	SO:0001217, UniRef:UniRef50_D3VM73
+contig_3	cds	137030	138013	+	DJILHJ_02850		ALP-N domain-containing protein	SO:0001217, UniRef:UniRef50_D3VM71
+contig_3	cds	138030	138323	+	DJILHJ_02855		Inner membrane protein	SO:0001217, UniRef:UniRef50_C4NV72
+contig_3	cds	138325	138744	+	DJILHJ_02860		HNS domain-containing protein	SO:0001217, UniRef:UniRef50_T0Q823
+contig_3	cds	138804	139355	-	DJILHJ_02865		Regulator	SO:0001217, UniRef:UniRef50_A0A084T2L2
+contig_3	cds	139352	139960	-	DJILHJ_02870		Transcriptional regulator	SO:0001217, UniRef:UniRef50_W3VAB0
+contig_3	cds	139970	140503	-	DJILHJ_02875		SLT domain-containing protein	SO:0001217, UniRef:UniRef50_A0A189PGJ4
+contig_3	cds	140503	140775	-	DJILHJ_02880		Nucleotide excision repair protein	SO:0001217, UniRef:UniRef50_A0A411H8I6
+contig_3	cds	141491	141853	+	DJILHJ_02885		Permease	SO:0001217, UniRef:UniRef50_T0P137
+contig_3	cds	141890	145504	-	DJILHJ_02890		TraG-N domain-containing protein	SO:0001217, UniRef:UniRef50_A0A3T1A4Q5
+contig_3	cds	145517	146950	-	DJILHJ_02895	traH	Conjugal transfer protein TraH	SO:0001217, UniRef:UniRef50_A0A4P6ZIP0
+contig_3	cds	146952	147992	-	DJILHJ_02900	traF	Conjugal transfer protein TraF	SO:0001217, UniRef:UniRef50_A0A0M2DWM0
+contig_3	cds	148103	149614	-	DJILHJ_02905		DNA helicase	SO:0001217, UniRef:UniRef50_C4NV62
+contig_3	cds	149623	149901	-	DJILHJ_02910		PaREP7	SO:0001217, UniRef:UniRef50_D3VM64
+contig_3	cds	149901	150941	-	DJILHJ_02915	kfrA	ATPase-like KfrA protein	SO:0001217, UniRef:UniRef50_C4NV61
+contig_3	cds	151094	151969	-	DJILHJ_02920		DNA replication terminus site-binding protein	SO:0001217, UniRef:UniRef50_D3VM13
+contig_3	cds	152286	152777	-	DJILHJ_02925		Protein singed	SO:0001217, UniRef:UniRef50_A0A1V0M4G1
+contig_3	cds	152774	153643	-	DJILHJ_02930		3'-5' exonuclease	SO:0001217, UniRef:UniRef50_C4NW33
+contig_3	cds	153648	154658	-	DJILHJ_02935		Integrase/recombinase	SO:0001217, UniRef:UniRef50_N1NTV4
+contig_3	cds	154661	155191	-	DJILHJ_02940		Protein tyrosine phosphatase	SO:0001217, UniRef:UniRef50_A0A095SG67
+contig_3	cds	155201	155482	-	DJILHJ_02945		hypothetical protein	
+contig_3	cds	155501	155782	-	DJILHJ_02950		STAS domain-containing protein	SO:0001217, UniRef:UniRef50_C4NV54
+contig_3	cds	156042	156290	+	DJILHJ_02955		hypothetical protein	
+contig_3	cds	156374	156589	-	DJILHJ_02960	insB	InsB	SO:0001217, UniRef:UniRef50_B0LHG4
+contig_3	cds	157389	158393	-	DJILHJ_02965	tnp	IS110 family IS4321 transposase	IS:IS4321, SO:0001217, UniRef:UniRef50_A0A193M262
+contig_3	cds	158472	158906	-	DJILHJ_02970	merR	mercury resistance transcriptional regulator MerR	NCBIProtein:CAA77320.1, SO:0001217, UniRef:UniRef50_A0A2W5FYV2
+contig_3	cds	158978	159328	+	DJILHJ_02975	merT	mercuric transport protein MerT	NCBIProtein:AAB59075.1, SO:0001217, UniRef:UniRef50_A0A515EQQ8
