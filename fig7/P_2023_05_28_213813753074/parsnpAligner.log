@@ -1,0 +1,1826 @@
+Number of sequences analyzed:       300
+
+Sequence 1 : /mnt/cive/csalazar/doctorado/capitulo1/parte1/st11_patric3/P_2023_05_28_213813753074/CP003200.fasta.ref
+CP003200.fasta.ref
+Length:   5682322 bps
+ GC: 3245829.0
+ AT: 2436492.0
+Sequence 2 : genomes/F43_assembly.fasta
+F43_assembly.fasta
+Length:   5610944 bps
+ GC: 3212562.0
+ AT: 2397142.0
+Sequence 3 : genomes/f_1125630.4.fna.fasta
+f_1125630.4.fna.fasta
+Length:   5684182 bps
+ GC: 3245829.0
+ AT: 2436492.0
+Sequence 4 : genomes/F47_assembly.fasta
+F47_assembly.fasta
+Length:   5425683 bps
+ GC: 3113833.0
+ AT: 2310920.0
+Sequence 5 : genomes/F34_assembly.fasta
+F34_assembly.fasta
+Length:   5444140 bps
+ GC: 3124489.0
+ AT: 2318411.0
+Sequence 6 : genomes/F54_assembly.fasta
+F54_assembly.fasta
+Length:   5443047 bps
+ GC: 3124501.0
+ AT: 2317616.0
+Sequence 7 : genomes/F41_assembly.fasta
+F41_assembly.fasta
+Length:   5794897 bps
+ GC: 3306647.0
+ AT: 2483910.0
+Sequence 8 : genomes/f_573.1499.fna.fasta
+f_573.1499.fna.fasta
+Length:   5553421 bps
+ GC: 3179501.0
+ AT: 2372990.0
+Sequence 9 : genomes/f_573.18187.fna.fasta
+f_573.18187.fna.fasta
+Length:   5534004 bps
+ GC: 3169309.0
+ AT: 2363765.0
+Sequence 10 : genomes/f_573.15309.fna.fasta
+f_573.15309.fna.fasta
+Length:   5882224 bps
+ GC: 3356267.0
+ AT: 2524717.0
+Sequence 11 : genomes/f_573.15043.fna.fasta
+f_573.15043.fna.fasta
+Length:   5747059 bps
+ GC: 3277924.0
+ AT: 2468205.0
+Sequence 12 : genomes/f_573.14988.fna.fasta
+f_573.14988.fna.fasta
+Length:   5456357 bps
+ GC: 3135480.0
+ AT: 2320877.0
+Sequence 13 : genomes/f_573.23143.fna.fasta
+f_573.23143.fna.fasta
+Length:   5873047 bps
+ GC: 3346885.0
+ AT: 2524922.0
+Sequence 14 : genomes/f_573.20005.fna.fasta
+f_573.20005.fna.fasta
+Length:   5806964 bps
+ GC: 3316139.0
+ AT: 2488965.0
+Sequence 15 : genomes/F19_assembly.fasta
+F19_assembly.fasta
+Length:   5610274 bps
+ GC: 3211598.0
+ AT: 2396196.0
+Sequence 16 : genomes/F35_assembly.fasta
+F35_assembly.fasta
+Length:   5451093 bps
+ GC: 3127733.0
+ AT: 2321810.0
+Sequence 17 : genomes/F24_assembly.fasta
+F24_assembly.fasta
+Length:   5613153 bps
+ GC: 3213788.0
+ AT: 2397815.0
+Sequence 18 : genomes/f_573.18071.fna.fasta
+f_573.18071.fna.fasta
+Length:   5959478 bps
+ GC: 3388877.0
+ AT: 2569261.0
+Sequence 19 : genomes/f_39831.29.fna.fasta
+f_39831.29.fna.fasta
+Length:   6024528 bps
+ GC: 3434145.0
+ AT: 2589453.0
+Sequence 20 : genomes/f_573.22601.fna.fasta
+f_573.22601.fna.fasta
+Length:   5808853 bps
+ GC: 3317479.0
+ AT: 2490444.0
+Sequence 21 : genomes/f_573.18072.fna.fasta
+f_573.18072.fna.fasta
+Length:   5464958 bps
+ GC: 3121833.0
+ AT: 2342095.0
+Sequence 22 : genomes/f_573.15001.fna.fasta
+f_573.15001.fna.fasta
+Length:   5475860 bps
+ GC: 3141966.0
+ AT: 2333894.0
+Sequence 23 : genomes/f_573.12782.fna.fasta
+f_573.12782.fna.fasta
+Length:   5799854 bps
+ GC: 3294381.0
+ AT: 2504233.0
+Sequence 24 : genomes/f_573.15321.fna.fasta
+f_573.15321.fna.fasta
+Length:   5953746 bps
+ GC: 3395165.0
+ AT: 2556411.0
+Sequence 25 : genomes/F15_assembly.fasta
+F15_assembly.fasta
+Length:   5448624 bps
+ GC: 3127001.0
+ AT: 2320073.0
+Sequence 26 : genomes/f_573.18146.fna.fasta
+f_573.18146.fna.fasta
+Length:   5911353 bps
+ GC: 3357797.0
+ AT: 2552006.0
+Sequence 27 : genomes/F53_assembly.fasta
+F53_assembly.fasta
+Length:   5444160 bps
+ GC: 3125205.0
+ AT: 2318025.0
+Sequence 28 : genomes/f_573.18088.fna.fasta
+f_573.18088.fna.fasta
+Length:   6133812 bps
+ GC: 3470270.0
+ AT: 2661682.0
+Sequence 29 : genomes/f_573.19949.fna.fasta
+f_573.19949.fna.fasta
+Length:   5683199 bps
+ GC: 3261508.0
+ AT: 2421381.0
+Sequence 30 : genomes/f_573.23193.fna.fasta
+f_573.23193.fna.fasta
+Length:   5360130 bps
+ GC: 3081073.0
+ AT: 2279057.0
+Sequence 31 : genomes/F29_assembly.fasta
+F29_assembly.fasta
+Length:   5446283 bps
+ GC: 3125753.0
+ AT: 2319290.0
+Sequence 32 : genomes/f_573.18541.fna.fasta
+f_573.18541.fna.fasta
+Length:   6108867 bps
+ GC: 3450365.0
+ AT: 2657572.0
+Sequence 33 : genomes/f_573.30887.fna.fasta
+f_573.30887.fna.fasta
+Length:   5518817 bps
+ GC: 3162224.0
+ AT: 2356593.0
+Sequence 34 : genomes/F32_assembly.fasta
+F32_assembly.fasta
+Length:   5446512 bps
+ GC: 3125513.0
+ AT: 2318829.0
+Sequence 35 : genomes/f_573.31241.fna.fasta
+f_573.31241.fna.fasta
+Length:   5557236 bps
+ GC: 3172806.0
+ AT: 2384120.0
+Sequence 36 : genomes/f_1380908.3.fna.fasta
+f_1380908.3.fna.fasta
+Length:   5603794 bps
+ GC: 3209181.0
+ AT: 2393993.0
+Sequence 37 : genomes/f_573.31286.fna.fasta
+f_573.31286.fna.fasta
+Length:   6049378 bps
+ GC: 3434856.0
+ AT: 2613282.0
+Sequence 38 : genomes/f_573.31865.fna.fasta
+f_573.31865.fna.fasta
+Length:   5884669 bps
+ GC: 3354823.0
+ AT: 2528296.0
+Sequence 39 : genomes/f_573.31866.fna.fasta
+f_573.31866.fna.fasta
+Length:   5883895 bps
+ GC: 3354363.0
+ AT: 2527982.0
+Sequence 40 : genomes/f_573.31867.fna.fasta
+f_573.31867.fna.fasta
+Length:   5873424 bps
+ GC: 3349146.0
+ AT: 2522728.0
+Sequence 41 : genomes/f_573.31868.fna.fasta
+f_573.31868.fna.fasta
+Length:   5883839 bps
+ GC: 3354327.0
+ AT: 2527962.0
+Sequence 42 : genomes/f_573.31869.fna.fasta
+f_573.31869.fna.fasta
+Length:   5873113 bps
+ GC: 3348954.0
+ AT: 2522609.0
+Sequence 43 : genomes/f_573.31871.fna.fasta
+f_573.31871.fna.fasta
+Length:   5885223 bps
+ GC: 3355090.0
+ AT: 2528583.0
+Sequence 44 : genomes/f_573.31872.fna.fasta
+f_573.31872.fna.fasta
+Length:   5885038 bps
+ GC: 3354981.0
+ AT: 2528507.0
+Sequence 45 : genomes/f_573.31873.fna.fasta
+f_573.31873.fna.fasta
+Length:   5882554 bps
+ GC: 3353617.0
+ AT: 2527387.0
+Sequence 46 : genomes/f_573.31874.fna.fasta
+f_573.31874.fna.fasta
+Length:   5886874 bps
+ GC: 3356333.0
+ AT: 2528991.0
+Sequence 47 : genomes/f_573.31875.fna.fasta
+f_573.31875.fna.fasta
+Length:   5883842 bps
+ GC: 3354319.0
+ AT: 2527973.0
+Sequence 48 : genomes/f_573.32082.fna.fasta
+f_573.32082.fna.fasta
+Length:   5570921 bps
+ GC: 3189089.0
+ AT: 2381212.0
+Sequence 49 : genomes/f_573.32083.fna.fasta
+f_573.32083.fna.fasta
+Length:   5570703 bps
+ GC: 3188949.0
+ AT: 2381134.0
+Sequence 50 : genomes/f_573.32084.fna.fasta
+f_573.32084.fna.fasta
+Length:   5571133 bps
+ GC: 3189215.0
+ AT: 2381298.0
+Sequence 51 : genomes/f_573.32085.fna.fasta
+f_573.32085.fna.fasta
+Length:   5571688 bps
+ GC: 3189479.0
+ AT: 2381589.0
+Sequence 52 : genomes/f_573.32086.fna.fasta
+f_573.32086.fna.fasta
+Length:   5573034 bps
+ GC: 3190206.0
+ AT: 2382208.0
+Sequence 53 : genomes/f_573.32089.fna.fasta
+f_573.32089.fna.fasta
+Length:   5570700 bps
+ GC: 3188956.0
+ AT: 2381124.0
+Sequence 54 : genomes/f_573.32119.fna.fasta
+f_573.32119.fna.fasta
+Length:   5610583 bps
+ GC: 3210925.0
+ AT: 2399348.0
+Sequence 55 : genomes/f_573.32121.fna.fasta
+f_573.32121.fna.fasta
+Length:   5559647 bps
+ GC: 3183438.0
+ AT: 2375589.0
+Sequence 56 : genomes/f_573.32122.fna.fasta
+f_573.32122.fna.fasta
+Length:   5554234 bps
+ GC: 3180455.0
+ AT: 2373159.0
+Sequence 57 : genomes/f_573.32123.fna.fasta
+f_573.32123.fna.fasta
+Length:   5533109 bps
+ GC: 3170365.0
+ AT: 2362124.0
+Sequence 58 : genomes/f_573.32128.fna.fasta
+f_573.32128.fna.fasta
+Length:   5725913 bps
+ GC: 3270427.0
+ AT: 2453626.0
+Sequence 59 : genomes/f_573.32398.fna.fasta
+f_573.32398.fna.fasta
+Length:   5900000 bps
+ GC: 3365428.0
+ AT: 2533952.0
+Sequence 60 : genomes/f_573.33953.fna.fasta
+f_573.33953.fna.fasta
+Length:   5899214 bps
+ GC: 3360831.0
+ AT: 2537453.0
+Sequence 61 : genomes/f_573.34071.fna.fasta
+f_573.34071.fna.fasta
+Length:   5893862 bps
+ GC: 3357640.0
+ AT: 2534672.0
+Sequence 62 : genomes/f_573.34072.fna.fasta
+f_573.34072.fna.fasta
+Length:   5859192 bps
+ GC: 3338391.0
+ AT: 2519251.0
+Sequence 63 : genomes/f_573.34073.fna.fasta
+f_573.34073.fna.fasta
+Length:   5878839 bps
+ GC: 3349165.0
+ AT: 2528124.0
+Sequence 64 : genomes/f_573.34074.fna.fasta
+f_573.34074.fna.fasta
+Length:   5889300 bps
+ GC: 3355287.0
+ AT: 2532463.0
+Sequence 65 : genomes/f_573.34075.fna.fasta
+f_573.34075.fna.fasta
+Length:   6031508 bps
+ GC: 3428714.0
+ AT: 2600934.0
+Sequence 66 : genomes/f_573.34091.fna.fasta
+f_573.34091.fna.fasta
+Length:   5841065 bps
+ GC: 3324692.0
+ AT: 2514823.0
+Sequence 67 : genomes/f_573.34142.fna.fasta
+f_573.34142.fna.fasta
+Length:   6025088 bps
+ GC: 3420639.0
+ AT: 2603209.0
+Sequence 68 : genomes/f_573.34143.fna.fasta
+f_573.34143.fna.fasta
+Length:   5924570 bps
+ GC: 3367456.0
+ AT: 2555564.0
+Sequence 69 : genomes/f_573.34144.fna.fasta
+f_573.34144.fna.fasta
+Length:   5910229 bps
+ GC: 3365783.0
+ AT: 2542896.0
+Sequence 70 : genomes/f_573.34145.fna.fasta
+f_573.34145.fna.fasta
+Length:   5967510 bps
+ GC: 3393190.0
+ AT: 2572770.0
+Sequence 71 : genomes/f_573.34148.fna.fasta
+f_573.34148.fna.fasta
+Length:   5854453 bps
+ GC: 3332640.0
+ AT: 2520573.0
+Sequence 72 : genomes/f_573.34149.fna.fasta
+f_573.34149.fna.fasta
+Length:   5829433 bps
+ GC: 3330822.0
+ AT: 2497061.0
+Sequence 73 : genomes/f_573.34151.fna.fasta
+f_573.34151.fna.fasta
+Length:   5894849 bps
+ GC: 3356174.0
+ AT: 2537125.0
+Sequence 74 : genomes/f_573.35037.fna.fasta
+f_573.35037.fna.fasta
+Length:   5553494 bps
+ GC: 3178446.0
+ AT: 2374118.0
+Sequence 75 : genomes/f_573.35039.fna.fasta
+f_573.35039.fna.fasta
+Length:   5553490 bps
+ GC: 3178435.0
+ AT: 2374125.0
+Sequence 76 : genomes/f_573.35053.fna.fasta
+f_573.35053.fna.fasta
+Length:   5719862 bps
+ GC: 3272137.0
+ AT: 2447105.0
+Sequence 77 : genomes/f_573.35055.fna.fasta
+f_573.35055.fna.fasta
+Length:   5735431 bps
+ GC: 3280900.0
+ AT: 2453911.0
+Sequence 78 : genomes/f_573.35056.fna.fasta
+f_573.35056.fna.fasta
+Length:   5977946 bps
+ GC: 3406912.0
+ AT: 2570104.0
+Sequence 79 : genomes/f_573.35058.fna.fasta
+f_573.35058.fna.fasta
+Length:   5703277 bps
+ GC: 3262883.0
+ AT: 2439774.0
+Sequence 80 : genomes/f_573.35059.fna.fasta
+f_573.35059.fna.fasta
+Length:   5619178 bps
+ GC: 3216173.0
+ AT: 2402385.0
+Sequence 81 : genomes/f_573.35063.fna.fasta
+f_573.35063.fna.fasta
+Length:   5870113 bps
+ GC: 3344529.0
+ AT: 2524034.0
+Sequence 82 : genomes/f_573.35102.fna.fasta
+f_573.35102.fna.fasta
+Length:   5638481 bps
+ GC: 3214615.0
+ AT: 2422936.0
+Sequence 83 : genomes/f_573.35105.fna.fasta
+f_573.35105.fna.fasta
+Length:   5888226 bps
+ GC: 3354814.0
+ AT: 2532172.0
+Sequence 84 : genomes/f_573.35106.fna.fasta
+f_573.35106.fna.fasta
+Length:   5873038 bps
+ GC: 3344015.0
+ AT: 2527473.0
+Sequence 85 : genomes/f_573.36135.fna.fasta
+f_573.36135.fna.fasta
+Length:   6024672 bps
+ GC: 3429481.0
+ AT: 2593331.0
+Sequence 86 : genomes/f_573.25951.fna.fasta
+f_573.25951.fna.fasta
+Length:   5318075 bps
+ GC: 3057018.0
+ AT: 2260514.0
+Sequence 87 : genomes/f_573.36605.fna.fasta
+f_573.36605.fna.fasta
+Length:   5677499 bps
+ GC: 3247160.0
+ AT: 2429409.0
+Sequence 88 : genomes/f_573.27957.fna.fasta
+f_573.27957.fna.fasta
+Length:   5593116 bps
+ GC: 3204706.0
+ AT: 2387790.0
+Sequence 89 : genomes/f_573.25982.fna.fasta
+f_573.25982.fna.fasta
+Length:   5882416 bps
+ GC: 3348234.0
+ AT: 2532632.0
+Sequence 90 : genomes/f_573.25595.fna.fasta
+f_573.25595.fna.fasta
+Length:   5735934 bps
+ GC: 3288595.0
+ AT: 2446719.0
+Sequence 91 : genomes/f_573.25601.fna.fasta
+f_573.25601.fna.fasta
+Length:   5643223 bps
+ GC: 3227655.0
+ AT: 2415258.0
+Sequence 92 : genomes/f_573.29491.fna.fasta
+f_573.29491.fna.fasta
+Length:   5979402 bps
+ GC: 3402655.0
+ AT: 2575507.0
+Sequence 93 : genomes/f_573.25983.fna.fasta
+f_573.25983.fna.fasta
+Length:   5863298 bps
+ GC: 3337010.0
+ AT: 2524738.0
+Sequence 94 : genomes/f_573.27211.fna.fasta
+f_573.27211.fna.fasta
+Length:   5865719 bps
+ GC: 3340251.0
+ AT: 2523918.0
+Sequence 95 : genomes/f_573.36609.fna.fasta
+f_573.36609.fna.fasta
+Length:   5552778 bps
+ GC: 3181540.0
+ AT: 2370618.0
+Sequence 96 : genomes/f_573.25794.fna.fasta
+f_573.25794.fna.fasta
+Length:   5669126 bps
+ GC: 3244972.0
+ AT: 2422604.0
+Sequence 97 : genomes/f_573.25594.fna.fasta
+f_573.25594.fna.fasta
+Length:   5841748 bps
+ GC: 3341395.0
+ AT: 2499423.0
+Sequence 98 : genomes/f_573.27189.fna.fasta
+f_573.27189.fna.fasta
+Length:   5892136 bps
+ GC: 3350670.0
+ AT: 2540536.0
+Sequence 99 : genomes/f_573.25593.fna.fasta
+f_573.25593.fna.fasta
+Length:   5917911 bps
+ GC: 3381731.0
+ AT: 2535250.0
+Sequence 100 : genomes/f_573.25981.fna.fasta
+f_573.25981.fna.fasta
+Length:   5864273 bps
+ GC: 3337131.0
+ AT: 2525592.0
+Sequence 101 : genomes/f_573.30816.fna.fasta
+f_573.30816.fna.fasta
+Length:   5836065 bps
+ GC: 3327897.0
+ AT: 2507238.0
+Sequence 102 : genomes/f_573.37708.fna.fasta
+f_573.37708.fna.fasta
+Length:   6012798 bps
+ GC: 3407886.0
+ AT: 2603362.0
+Sequence 103 : genomes/f_573.29483.fna.fasta
+f_573.29483.fna.fasta
+Length:   5659364 bps
+ GC: 3237161.0
+ AT: 2421583.0
+Sequence 104 : genomes/f_573.29053.fna.fasta
+f_573.29053.fna.fasta
+Length:   5814134 bps
+ GC: 3309720.0
+ AT: 2503074.0
+Sequence 105 : genomes/f_573.29539.fna.fasta
+f_573.29539.fna.fasta
+Length:   5439711 bps
+ GC: 3120765.0
+ AT: 2318946.0
+Sequence 106 : genomes/f_573.29567.fna.fasta
+f_573.29567.fna.fasta
+Length:   5755384 bps
+ GC: 3288582.0
+ AT: 2465872.0
+Sequence 107 : genomes/f_573.29484.fna.fasta
+f_573.29484.fna.fasta
+Length:   5904868 bps
+ GC: 3361556.0
+ AT: 2542382.0
+Sequence 108 : genomes/f_573.29587.fna.fasta
+f_573.29587.fna.fasta
+Length:   5856781 bps
+ GC: 3344165.0
+ AT: 2511996.0
+Sequence 109 : genomes/f_573.29568.fna.fasta
+f_573.29568.fna.fasta
+Length:   5441138 bps
+ GC: 3119452.0
+ AT: 2321686.0
+Sequence 110 : genomes/f_573.39712.fna.fasta
+f_573.39712.fna.fasta
+Length:   5921606 bps
+ GC: 3368057.0
+ AT: 2551689.0
+Sequence 111 : genomes/f_573.29582.fna.fasta
+f_573.29582.fna.fasta
+Length:   5648732 bps
+ GC: 3236220.0
+ AT: 2412202.0
+Sequence 112 : genomes/f_573.23227.fna.fasta
+f_573.23227.fna.fasta
+Length:   6088525 bps
+ GC: 3465485.0
+ AT: 2621800.0
+Sequence 113 : genomes/f_573.30814.fna.fasta
+f_573.30814.fna.fasta
+Length:   5920308 bps
+ GC: 3374737.0
+ AT: 2544331.0
+Sequence 114 : genomes/f_573.29052.fna.fasta
+f_573.29052.fna.fasta
+Length:   5835949 bps
+ GC: 3324671.0
+ AT: 2510038.0
+Sequence 115 : genomes/f_573.30828.fna.fasta
+f_573.30828.fna.fasta
+Length:   5547989 bps
+ GC: 3178310.0
+ AT: 2369679.0
+Sequence 116 : genomes/f_573.40319.fna.fasta
+f_573.40319.fna.fasta
+Length:   6022715 bps
+ GC: 3425374.0
+ AT: 2596101.0
+Sequence 117 : genomes/f_573.27958.fna.fasta
+f_573.27958.fna.fasta
+Length:   5922465 bps
+ GC: 3371738.0
+ AT: 2549177.0
+Sequence 118 : genomes/f_573.41308.fna.fasta
+f_573.41308.fna.fasta
+Length:   5966312 bps
+ GC: 3396964.0
+ AT: 2568108.0
+Sequence 119 : genomes/f_573.42347.fna.fasta
+f_573.42347.fna.fasta
+Length:   5620093 bps
+ GC: 3221053.0
+ AT: 2398420.0
+Sequence 120 : genomes/f_573.42372.fna.fasta
+f_573.42372.fna.fasta
+Length:   5887049 bps
+ GC: 3355747.0
+ AT: 2530062.0
+Sequence 121 : genomes/f_573.43443.fna.fasta
+f_573.43443.fna.fasta
+Length:   5933799 bps
+ GC: 3377399.0
+ AT: 2554850.0
+Sequence 122 : genomes/f_573.43445.fna.fasta
+f_573.43445.fna.fasta
+Length:   5841020 bps
+ GC: 3325906.0
+ AT: 2514184.0
+Sequence 123 : genomes/f_573.31239.fna.fasta
+f_573.31239.fna.fasta
+Length:   5779304 bps
+ GC: 3287310.0
+ AT: 2490754.0
+Sequence 124 : genomes/f_573.31228.fna.fasta
+f_573.31228.fna.fasta
+Length:   5744722 bps
+ GC: 3281101.0
+ AT: 2462691.0
+Sequence 125 : genomes/f_573.43447.fna.fasta
+f_573.43447.fna.fasta
+Length:   6057869 bps
+ GC: 3426214.0
+ AT: 2629795.0
+Sequence 126 : genomes/f_573.44713.fna.fasta
+f_573.44713.fna.fasta
+Length:   5963300 bps
+ GC: 3390940.0
+ AT: 2571430.0
+Sequence 127 : genomes/f_573.31242.fna.fasta
+f_573.31242.fna.fasta
+Length:   5827720 bps
+ GC: 3308907.0
+ AT: 2517573.0
+Sequence 128 : genomes/f_573.44714.fna.fasta
+f_573.44714.fna.fasta
+Length:   5970821 bps
+ GC: 3388904.0
+ AT: 2580587.0
+Sequence 129 : genomes/f_573.44809.fna.fasta
+f_573.44809.fna.fasta
+Length:   5453822 bps
+ GC: 3130964.0
+ AT: 2322858.0
+Sequence 130 : genomes/f_573.44816.fna.fasta
+f_573.44816.fna.fasta
+Length:   5889012 bps
+ GC: 3355247.0
+ AT: 2532215.0
+Sequence 131 : genomes/f_573.45112.fna.fasta
+f_573.45112.fna.fasta
+Length:   5935404 bps
+ GC: 3365102.0
+ AT: 2568752.0
+Sequence 132 : genomes/f_573.31383.fna.fasta
+f_573.31383.fna.fasta
+Length:   5582846 bps
+ GC: 3192825.0
+ AT: 2389270.0
+Sequence 133 : genomes/f_573.45119.fna.fasta
+f_573.45119.fna.fasta
+Length:   5904104 bps
+ GC: 3345398.0
+ AT: 2557466.0
+Sequence 134 : genomes/f_573.45172.fna.fasta
+f_573.45172.fna.fasta
+Length:   5894699 bps
+ GC: 3356698.0
+ AT: 2536451.0
+Sequence 135 : genomes/f_573.45231.fna.fasta
+f_573.45231.fna.fasta
+Length:   5549976 bps
+ GC: 3178114.0
+ AT: 2370932.0
+Sequence 136 : genomes/f_573.45239.fna.fasta
+f_573.45239.fna.fasta
+Length:   5502284 bps
+ GC: 3153584.0
+ AT: 2348390.0
+Sequence 137 : genomes/f_573.45852.fna.fasta
+f_573.45852.fna.fasta
+Length:   5901979 bps
+ GC: 3344446.0
+ AT: 2556603.0
+Sequence 138 : genomes/f_573.45856.fna.fasta
+f_573.45856.fna.fasta
+Length:   5581521 bps
+ GC: 3190076.0
+ AT: 2387462.0
+Sequence 139 : genomes/f_573.45862.fna.fasta
+f_573.45862.fna.fasta
+Length:   5340004 bps
+ GC: 3068323.0
+ AT: 2270640.0
+Sequence 140 : genomes/f_573.45869.fna.fasta
+f_573.45869.fna.fasta
+Length:   5501583 bps
+ GC: 3153381.0
+ AT: 2347892.0
+Sequence 141 : genomes/f_573.45896.fna.fasta
+f_573.45896.fna.fasta
+Length:   5934750 bps
+ GC: 3373512.0
+ AT: 2559378.0
+Sequence 142 : genomes/f_573.45898.fna.fasta
+f_573.45898.fna.fasta
+Length:   5946125 bps
+ GC: 3379659.0
+ AT: 2564296.0
+Sequence 143 : genomes/f_573.46009.fna.fasta
+f_573.46009.fna.fasta
+Length:   5680532 bps
+ GC: 3246652.0
+ AT: 2432640.0
+Sequence 144 : genomes/f_573.47269.fna.fasta
+f_573.47269.fna.fasta
+Length:   5904900 bps
+ GC: 3362637.0
+ AT: 2541023.0
+Sequence 145 : genomes/f_573.47271.fna.fasta
+f_573.47271.fna.fasta
+Length:   5904901 bps
+ GC: 3362639.0
+ AT: 2541022.0
+Sequence 146 : genomes/f_573.47282.fna.fasta
+f_573.47282.fna.fasta
+Length:   5781238 bps
+ GC: 3293073.0
+ AT: 2487235.0
+Sequence 147 : genomes/f_573.36607.fna.fasta
+f_573.36607.fna.fasta
+Length:   5700020 bps
+ GC: 3257951.0
+ AT: 2440829.0
+Sequence 148 : genomes/f_573.47301.fna.fasta
+f_573.47301.fna.fasta
+Length:   5720848 bps
+ GC: 3272329.0
+ AT: 2447279.0
+Sequence 149 : genomes/f_573.47302.fna.fasta
+f_573.47302.fna.fasta
+Length:   5862987 bps
+ GC: 3341271.0
+ AT: 2518616.0
+Sequence 150 : genomes/f_573.38208.fna.fasta
+f_573.38208.fna.fasta
+Length:   5640189 bps
+ GC: 3225053.0
+ AT: 2413896.0
+Sequence 151 : genomes/f_573.36684.fna.fasta
+f_573.36684.fna.fasta
+Length:   5461348 bps
+ GC: 3131364.0
+ AT: 2329984.0
+Sequence 152 : genomes/f_573.36653.fna.fasta
+f_573.36653.fna.fasta
+Length:   5802842 bps
+ GC: 3316669.0
+ AT: 2485243.0
+Sequence 153 : genomes/f_573.36652.fna.fasta
+f_573.36652.fna.fasta
+Length:   5673370 bps
+ GC: 3240146.0
+ AT: 2431984.0
+Sequence 154 : genomes/f_573.37722.fna.fasta
+f_573.37722.fna.fasta
+Length:   5938482 bps
+ GC: 3375647.0
+ AT: 2560665.0
+Sequence 155 : genomes/f_573.36658.fna.fasta
+f_573.36658.fna.fasta
+Length:   5641098 bps
+ GC: 3224700.0
+ AT: 2415468.0
+Sequence 156 : genomes/f_573.47303.fna.fasta
+f_573.47303.fna.fasta
+Length:   5740586 bps
+ GC: 3284173.0
+ AT: 2454863.0
+Sequence 157 : genomes/f_573.39719.fna.fasta
+f_573.39719.fna.fasta
+Length:   5924245 bps
+ GC: 3365144.0
+ AT: 2557241.0
+Sequence 158 : genomes/f_573.37721.fna.fasta
+f_573.37721.fna.fasta
+Length:   5515489 bps
+ GC: 3162287.0
+ AT: 2353102.0
+Sequence 159 : genomes/f_573.37643.fna.fasta
+f_573.37643.fna.fasta
+Length:   5629035 bps
+ GC: 3224509.0
+ AT: 2403906.0
+Sequence 160 : genomes/f_573.37266.fna.fasta
+f_573.37266.fna.fasta
+Length:   5832455 bps
+ GC: 3321399.0
+ AT: 2509506.0
+Sequence 161 : genomes/f_573.38721.fna.fasta
+f_573.38721.fna.fasta
+Length:   5374207 bps
+ GC: 3084089.0
+ AT: 2290118.0
+Sequence 162 : genomes/f_573.40291.fna.fasta
+f_573.40291.fna.fasta
+Length:   5731958 bps
+ GC: 3278022.0
+ AT: 2452696.0
+Sequence 163 : genomes/f_573.37205.fna.fasta
+f_573.37205.fna.fasta
+Length:   5865259 bps
+ GC: 3338911.0
+ AT: 2525418.0
+Sequence 164 : genomes/f_573.37783.fna.fasta
+f_573.37783.fna.fasta
+Length:   5731547 bps
+ GC: 3272909.0
+ AT: 2457088.0
+Sequence 165 : genomes/f_573.39713.fna.fasta
+f_573.39713.fna.fasta
+Length:   5896012 bps
+ GC: 3358707.0
+ AT: 2535755.0
+Sequence 166 : genomes/f_573.39711.fna.fasta
+f_573.39711.fna.fasta
+Length:   5917653 bps
+ GC: 3366083.0
+ AT: 2550020.0
+Sequence 167 : genomes/f_573.48938.fna.fasta
+f_573.48938.fna.fasta
+Length:   5642426 bps
+ GC: 3223098.0
+ AT: 2418398.0
+Sequence 168 : genomes/f_573.39718.fna.fasta
+f_573.39718.fna.fasta
+Length:   6069811 bps
+ GC: 3449699.0
+ AT: 2618252.0
+Sequence 169 : genomes/f_573.40315.fna.fasta
+f_573.40315.fna.fasta
+Length:   5806989 bps
+ GC: 3312300.0
+ AT: 2493759.0
+Sequence 170 : genomes/f_573.40318.fna.fasta
+f_573.40318.fna.fasta
+Length:   5849461 bps
+ GC: 3336602.0
+ AT: 2511619.0
+Sequence 171 : genomes/f_573.40317.fna.fasta
+f_573.40317.fna.fasta
+Length:   5774194 bps
+ GC: 3297463.0
+ AT: 2475801.0
+Sequence 172 : genomes/f_573.48939.fna.fasta
+f_573.48939.fna.fasta
+Length:   5630499 bps
+ GC: 3216577.0
+ AT: 2413302.0
+Sequence 173 : genomes/f_573.47304.fna.fasta
+f_573.47304.fna.fasta
+Length:   5764030 bps
+ GC: 3287401.0
+ AT: 2475079.0
+Sequence 174 : genomes/f_573.48974.fna.fasta
+f_573.48974.fna.fasta
+Length:   5510869 bps
+ GC: 3158135.0
+ AT: 2352424.0
+Sequence 175 : genomes/f_573.48973.fna.fasta
+f_573.48973.fna.fasta
+Length:   5641403 bps
+ GC: 3227216.0
+ AT: 2413257.0
+Sequence 176 : genomes/f_573.48971.fna.fasta
+f_573.48971.fna.fasta
+Length:   5885731 bps
+ GC: 3355597.0
+ AT: 2528584.0
+Sequence 177 : genomes/f_573.48975.fna.fasta
+f_573.48975.fna.fasta
+Length:   5642560 bps
+ GC: 3232633.0
+ AT: 2409307.0
+Sequence 178 : genomes/f_573.40323.fna.fasta
+f_573.40323.fna.fasta
+Length:   6006992 bps
+ GC: 3417684.0
+ AT: 2588068.0
+Sequence 179 : genomes/f_573.40321.fna.fasta
+f_573.40321.fna.fasta
+Length:   5752621 bps
+ GC: 3284946.0
+ AT: 2466745.0
+Sequence 180 : genomes/f_573.48978.fna.fasta
+f_573.48978.fna.fasta
+Length:   5991463 bps
+ GC: 3402625.0
+ AT: 2587908.0
+Sequence 181 : genomes/f_573.48981.fna.fasta
+f_573.48981.fna.fasta
+Length:   5996943 bps
+ GC: 3403618.0
+ AT: 2592395.0
+Sequence 182 : genomes/f_573.48977.fna.fasta
+f_573.48977.fna.fasta
+Length:   5957713 bps
+ GC: 3390902.0
+ AT: 2565571.0
+Sequence 183 : genomes/f_573.48983.fna.fasta
+f_573.48983.fna.fasta
+Length:   5803629 bps
+ GC: 3314179.0
+ AT: 2488830.0
+Sequence 184 : genomes/f_573.48979.fna.fasta
+f_573.48979.fna.fasta
+Length:   5819734 bps
+ GC: 3311792.0
+ AT: 2507012.0
+Sequence 185 : genomes/f_573.48982.fna.fasta
+f_573.48982.fna.fasta
+Length:   5626000 bps
+ GC: 3223594.0
+ AT: 2402096.0
+Sequence 186 : genomes/f_573.48976.fna.fasta
+f_573.48976.fna.fasta
+Length:   6066470 bps
+ GC: 3444807.0
+ AT: 2619803.0
+Sequence 187 : genomes/f_573.49108.fna.fasta
+f_573.49108.fna.fasta
+Length:   5366061 bps
+ GC: 3084549.0
+ AT: 2281512.0
+Sequence 188 : genomes/f_573.48984.fna.fasta
+f_573.48984.fna.fasta
+Length:   5682424 bps
+ GC: 3245381.0
+ AT: 2435493.0
+Sequence 189 : genomes/f_573.48985.fna.fasta
+f_573.48985.fna.fasta
+Length:   5975669 bps
+ GC: 3401296.0
+ AT: 2572823.0
+Sequence 190 : genomes/f_573.40324.fna.fasta
+f_573.40324.fna.fasta
+Length:   6014599 bps
+ GC: 3421575.0
+ AT: 2591784.0
+Sequence 191 : genomes/f_573.41292.fna.fasta
+f_573.41292.fna.fasta
+Length:   5883676 bps
+ GC: 3334121.0
+ AT: 2548315.0
+Sequence 192 : genomes/f_573.48999.fna.fasta
+f_573.48999.fna.fasta
+Length:   5848412 bps
+ GC: 3330432.0
+ AT: 2517050.0
+Sequence 193 : genomes/f_573.7245.fna.fasta
+f_573.7245.fna.fasta
+Length:   5586763 bps
+ GC: 3196921.0
+ AT: 2387362.0
+Sequence 194 : genomes/f_573.41293.fna.fasta
+f_573.41293.fna.fasta
+Length:   5752950 bps
+ GC: 3287655.0
+ AT: 2464055.0
+Sequence 195 : genomes/f_573.49401.fna.fasta
+f_573.49401.fna.fasta
+Length:   5442117 bps
+ GC: 3125499.0
+ AT: 2316618.0
+Sequence 196 : genomes/f_573.49109.fna.fasta
+f_573.49109.fna.fasta
+Length:   5514912 bps
+ GC: 3173951.0
+ AT: 2340961.0
+Sequence 197 : genomes/f_573.49397.fna.fasta
+f_573.49397.fna.fasta
+Length:   5937059 bps
+ GC: 3379034.0
+ AT: 2556785.0
+Sequence 198 : genomes/f_573.49402.fna.fasta
+f_573.49402.fna.fasta
+Length:   5731611 bps
+ GC: 3258001.0
+ AT: 2471440.0
+Sequence 199 : genomes/f_573.41309.fna.fasta
+f_573.41309.fna.fasta
+Length:   5951938 bps
+ GC: 3385324.0
+ AT: 2564034.0
+Sequence 200 : genomes/f_573.49552.fna.fasta
+f_573.49552.fna.fasta
+Length:   5658936 bps
+ GC: 3250473.0
+ AT: 2407843.0
+Sequence 201 : genomes/f_573.49554.fna.fasta
+f_573.49554.fna.fasta
+Length:   5870113 bps
+ GC: 3350585.0
+ AT: 2518288.0
+Sequence 202 : genomes/f_573.49553.fna.fasta
+f_573.49553.fna.fasta
+Length:   5646094 bps
+ GC: 3235023.0
+ AT: 2410141.0
+Sequence 203 : genomes/f_573.49556.fna.fasta
+f_573.49556.fna.fasta
+Length:   5634181 bps
+ GC: 3226879.0
+ AT: 2406372.0
+Sequence 204 : genomes/f_573.49891.fna.fasta
+f_573.49891.fna.fasta
+Length:   5437984 bps
+ GC: 3121890.0
+ AT: 2315784.0
+Sequence 205 : genomes/f_573.49555.fna.fasta
+f_573.49555.fna.fasta
+Length:   5573534 bps
+ GC: 3195266.0
+ AT: 2377338.0
+Sequence 206 : genomes/f_573.51039.fna.fasta
+f_573.51039.fna.fasta
+Length:   5557077 bps
+ GC: 3176446.0
+ AT: 2379081.0
+Sequence 207 : genomes/f_573.50964.fna.fasta
+f_573.50964.fna.fasta
+Length:   5897866 bps
+ GC: 3361225.0
+ AT: 2535401.0
+Sequence 208 : genomes/f_573.49558.fna.fasta
+f_573.49558.fna.fasta
+Length:   5805265 bps
+ GC: 3298289.0
+ AT: 2505736.0
+Sequence 209 : genomes/f_573.49559.fna.fasta
+f_573.49559.fna.fasta
+Length:   5737340 bps
+ GC: 3275904.0
+ AT: 2460506.0
+Sequence 210 : genomes/f_573.49557.fna.fasta
+f_573.49557.fna.fasta
+Length:   5889454 bps
+ GC: 3354666.0
+ AT: 2533238.0
+Sequence 211 : genomes/f_573.49892.fna.fasta
+f_573.49892.fna.fasta
+Length:   5832183 bps
+ GC: 3326439.0
+ AT: 2504814.0
+Sequence 212 : genomes/f_573.49885.fna.fasta
+f_573.49885.fna.fasta
+Length:   5877401 bps
+ GC: 3349627.0
+ AT: 2526224.0
+Sequence 213 : genomes/f_573.49889.fna.fasta
+f_573.49889.fna.fasta
+Length:   5865990 bps
+ GC: 3344411.0
+ AT: 2520029.0
+Sequence 214 : genomes/f_573.49887.fna.fasta
+f_573.49887.fna.fasta
+Length:   5989457 bps
+ GC: 3411727.0
+ AT: 2576180.0
+Sequence 215 : genomes/f_573.49886.fna.fasta
+f_573.49886.fna.fasta
+Length:   6035556 bps
+ GC: 3432224.0
+ AT: 2601162.0
+Sequence 216 : genomes/f_573.50095.fna.fasta
+f_573.50095.fna.fasta
+Length:   5896933 bps
+ GC: 3353946.0
+ AT: 2541127.0
+Sequence 217 : genomes/f_573.51041.fna.fasta
+f_573.51041.fna.fasta
+Length:   5735033 bps
+ GC: 3260383.0
+ AT: 2473720.0
+Sequence 218 : genomes/f_573.50433.fna.fasta
+f_573.50433.fna.fasta
+Length:   6070662 bps
+ GC: 3442223.0
+ AT: 2625959.0
+Sequence 219 : genomes/f_573.50572.fna.fasta
+f_573.50572.fna.fasta
+Length:   5735033 bps
+ GC: 3260383.0
+ AT: 2473720.0
+Sequence 220 : genomes/f_573.50527.fna.fasta
+f_573.50527.fna.fasta
+Length:   5820613 bps
+ GC: 3320323.0
+ AT: 2499050.0
+Sequence 221 : genomes/f_573.50782.fna.fasta
+f_573.50782.fna.fasta
+Length:   5400290 bps
+ GC: 3096502.0
+ AT: 2303478.0
+Sequence 222 : genomes/f_573.50812.fna.fasta
+f_573.50812.fna.fasta
+Length:   6070662 bps
+ GC: 3442223.0
+ AT: 2625959.0
+Sequence 223 : genomes/f_573.50995.fna.fasta
+f_573.50995.fna.fasta
+Length:   5820613 bps
+ GC: 3320323.0
+ AT: 2499050.0
+Sequence 224 : genomes/f_573.50101.fna.fasta
+f_573.50101.fna.fasta
+Length:   5540874 bps
+ GC: 3155707.0
+ AT: 2384547.0
+Sequence 225 : genomes/f_573.51889.fna.fasta
+f_573.51889.fna.fasta
+Length:   5355267 bps
+ GC: 3069547.0
+ AT: 2285410.0
+Sequence 226 : genomes/f_573.51775.fna.fasta
+f_573.51775.fna.fasta
+Length:   6132855 bps
+ GC: 3476408.0
+ AT: 2654897.0
+Sequence 227 : genomes/f_573.51781.fna.fasta
+f_573.51781.fna.fasta
+Length:   5874496 bps
+ GC: 3338497.0
+ AT: 2534449.0
+Sequence 228 : genomes/f_573.51776.fna.fasta
+f_573.51776.fna.fasta
+Length:   6118156 bps
+ GC: 3468108.0
+ AT: 2648498.0
+Sequence 229 : genomes/f_573.53582.fna.fasta
+f_573.53582.fna.fasta
+Length:   5622483 bps
+ GC: 3220799.0
+ AT: 2400444.0
+Sequence 230 : genomes/f_573.52179.fna.fasta
+f_573.52179.fna.fasta
+Length:   5847203 bps
+ GC: 3324500.0
+ AT: 2521463.0
+Sequence 231 : genomes/f_573.53561.fna.fasta
+f_573.53561.fna.fasta
+Length:   5777227 bps
+ GC: 3295711.0
+ AT: 2480586.0
+Sequence 232 : genomes/f_573.52181.fna.fasta
+f_573.52181.fna.fasta
+Length:   5861071 bps
+ GC: 3345402.0
+ AT: 2514429.0
+Sequence 233 : genomes/f_573.53562.fna.fasta
+f_573.53562.fna.fasta
+Length:   5626241 bps
+ GC: 3213618.0
+ AT: 2412623.0
+Sequence 234 : genomes/f_573.51892.fna.fasta
+f_573.51892.fna.fasta
+Length:   5898778 bps
+ GC: 3364241.0
+ AT: 2532987.0
+Sequence 235 : genomes/f_573.53573.fna.fasta
+f_573.53573.fna.fasta
+Length:   5902130 bps
+ GC: 3356560.0
+ AT: 2544020.0
+Sequence 236 : genomes/f_573.53572.fna.fasta
+f_573.53572.fna.fasta
+Length:   5623678 bps
+ GC: 3221576.0
+ AT: 2401172.0
+Sequence 237 : genomes/f_573.53571.fna.fasta
+f_573.53571.fna.fasta
+Length:   6030112 bps
+ GC: 3427357.0
+ AT: 2601205.0
+Sequence 238 : genomes/f_573.53577.fna.fasta
+f_573.53577.fna.fasta
+Length:   5595748 bps
+ GC: 3205245.0
+ AT: 2390193.0
+Sequence 239 : genomes/f_573.53576.fna.fasta
+f_573.53576.fna.fasta
+Length:   5981288 bps
+ GC: 3399579.0
+ AT: 2580159.0
+Sequence 240 : genomes/f_573.53578.fna.fasta
+f_573.53578.fna.fasta
+Length:   5635137 bps
+ GC: 3226021.0
+ AT: 2407876.0
+Sequence 241 : genomes/f_573.53574.fna.fasta
+f_573.53574.fna.fasta
+Length:   5987193 bps
+ GC: 3402431.0
+ AT: 2582902.0
+Sequence 242 : genomes/f_573.53586.fna.fasta
+f_573.53586.fna.fasta
+Length:   5627900 bps
+ GC: 3221293.0
+ AT: 2405677.0
+Sequence 243 : genomes/f_573.53581.fna.fasta
+f_573.53581.fna.fasta
+Length:   5629001 bps
+ GC: 3222506.0
+ AT: 2405565.0
+Sequence 244 : genomes/f_573.53588.fna.fasta
+f_573.53588.fna.fasta
+Length:   5691238 bps
+ GC: 3255291.0
+ AT: 2434707.0
+Sequence 245 : genomes/f_573.53597.fna.fasta
+f_573.53597.fna.fasta
+Length:   5830368 bps
+ GC: 3328305.0
+ AT: 2501133.0
+Sequence 246 : genomes/f_573.53585.fna.fasta
+f_573.53585.fna.fasta
+Length:   5625593 bps
+ GC: 3220792.0
+ AT: 2403871.0
+Sequence 247 : genomes/f_573.53593.fna.fasta
+f_573.53593.fna.fasta
+Length:   5570129 bps
+ GC: 3191028.0
+ AT: 2378171.0
+Sequence 248 : genomes/f_573.53595.fna.fasta
+f_573.53595.fna.fasta
+Length:   5845682 bps
+ GC: 3336571.0
+ AT: 2507871.0
+Sequence 249 : genomes/f_573.53587.fna.fasta
+f_573.53587.fna.fasta
+Length:   5697576 bps
+ GC: 3261303.0
+ AT: 2435963.0
+Sequence 250 : genomes/f_573.53596.fna.fasta
+f_573.53596.fna.fasta
+Length:   5771874 bps
+ GC: 3299795.0
+ AT: 2471149.0
+Sequence 251 : genomes/f_573.53594.fna.fasta
+f_573.53594.fna.fasta
+Length:   5889024 bps
+ GC: 3359836.0
+ AT: 2527638.0
+Sequence 252 : genomes/f_573.53584.fna.fasta
+f_573.53584.fna.fasta
+Length:   5735950 bps
+ GC: 3275241.0
+ AT: 2459469.0
+Sequence 253 : genomes/f_573.53589.fna.fasta
+f_573.53589.fna.fasta
+Length:   5739107 bps
+ GC: 3275363.0
+ AT: 2462504.0
+Sequence 254 : genomes/f_573.53599.fna.fasta
+f_573.53599.fna.fasta
+Length:   5685308 bps
+ GC: 3252418.0
+ AT: 2431960.0
+Sequence 255 : genomes/f_573.7359.fna.fasta
+f_573.7359.fna.fasta
+Length:   5526773 bps
+ GC: 3166480.0
+ AT: 2359673.0
+Sequence 256 : genomes/f_573.53598.fna.fasta
+f_573.53598.fna.fasta
+Length:   5794131 bps
+ GC: 3306428.0
+ AT: 2486773.0
+Sequence 257 : genomes/f_573.53604.fna.fasta
+f_573.53604.fna.fasta
+Length:   5829297 bps
+ GC: 3327738.0
+ AT: 2500629.0
+Sequence 258 : genomes/f_573.53602.fna.fasta
+f_573.53602.fna.fasta
+Length:   5839994 bps
+ GC: 3333451.0
+ AT: 2505303.0
+Sequence 259 : genomes/f_573.54341.fna.fasta
+f_573.54341.fna.fasta
+Length:   5744540 bps
+ GC: 3277401.0
+ AT: 2466829.0
+Sequence 260 : genomes/f_573.53606.fna.fasta
+f_573.53606.fna.fasta
+Length:   5839235 bps
+ GC: 3333054.0
+ AT: 2504941.0
+Sequence 261 : genomes/f_573.53601.fna.fasta
+f_573.53601.fna.fasta
+Length:   5839246 bps
+ GC: 3333289.0
+ AT: 2504717.0
+Sequence 262 : genomes/f_573.53603.fna.fasta
+f_573.53603.fna.fasta
+Length:   5687032 bps
+ GC: 3252436.0
+ AT: 2433666.0
+Sequence 263 : genomes/f_573.53608.fna.fasta
+f_573.53608.fna.fasta
+Length:   5838594 bps
+ GC: 3332711.0
+ AT: 2504643.0
+Sequence 264 : genomes/f_573.53605.fna.fasta
+f_573.53605.fna.fasta
+Length:   5628246 bps
+ GC: 3222575.0
+ AT: 2405051.0
+Sequence 265 : genomes/f_573.53618.fna.fasta
+f_573.53618.fna.fasta
+Length:   5816723 bps
+ GC: 3327396.0
+ AT: 2488397.0
+Sequence 266 : genomes/f_573.53607.fna.fasta
+f_573.53607.fna.fasta
+Length:   5769803 bps
+ GC: 3296505.0
+ AT: 2472368.0
+Sequence 267 : genomes/f_573.53609.fna.fasta
+f_573.53609.fna.fasta
+Length:   5821672 bps
+ GC: 3323811.0
+ AT: 2496931.0
+Sequence 268 : genomes/f_573.54338.fna.fasta
+f_573.54338.fna.fasta
+Length:   5659177 bps
+ GC: 3234671.0
+ AT: 2423266.0
+Sequence 269 : genomes/f_573.54333.fna.fasta
+f_573.54333.fna.fasta
+Length:   5849216 bps
+ GC: 3330373.0
+ AT: 2517293.0
+Sequence 270 : genomes/f_72407.1717.fna.fasta
+f_72407.1717.fna.fasta
+Length:   5869845 bps
+ GC: 3346588.0
+ AT: 2521707.0
+Sequence 271 : genomes/f_72407.1741.fna.fasta
+f_72407.1741.fna.fasta
+Length:   5902446 bps
+ GC: 3366385.0
+ AT: 2534821.0
+Sequence 272 : genomes/f_573.7362.fna.fasta
+f_573.7362.fna.fasta
+Length:   5780414 bps
+ GC: 3292647.0
+ AT: 2486837.0
+Sequence 273 : genomes/f_573.54339.fna.fasta
+f_573.54339.fna.fasta
+Length:   5665655 bps
+ GC: 3237462.0
+ AT: 2426333.0
+Sequence 274 : genomes/f_573.7247.fna.fasta
+f_573.7247.fna.fasta
+Length:   5699368 bps
+ GC: 3271229.0
+ AT: 2427829.0
+Sequence 275 : genomes/f_72407.1254.fna.fasta
+f_72407.1254.fna.fasta
+Length:   5647203 bps
+ GC: 3230167.0
+ AT: 2415796.0
+Sequence 276 : genomes/f_72407.1602.fna.fasta
+f_72407.1602.fna.fasta
+Length:   5781791 bps
+ GC: 3301502.0
+ AT: 2479359.0
+Sequence 277 : genomes/f_573.9643.fna.fasta
+f_573.9643.fna.fasta
+Length:   5854802 bps
+ GC: 3342653.0
+ AT: 2510289.0
+Sequence 278 : genomes/f_72407.1497.fna.fasta
+f_72407.1497.fna.fasta
+Length:   6110951 bps
+ GC: 3454716.0
+ AT: 2654995.0
+Sequence 279 : genomes/f_72407.1424.fna.fasta
+f_72407.1424.fna.fasta
+Length:   5924689 bps
+ GC: 3360395.0
+ AT: 2563674.0
+Sequence 280 : genomes/f_72407.1498.fna.fasta
+f_72407.1498.fna.fasta
+Length:   6091857 bps
+ GC: 3441742.0
+ AT: 2648875.0
+Sequence 281 : genomes/f_72407.1745.fna.fasta
+f_72407.1745.fna.fasta
+Length:   5622146 bps
+ GC: 3217514.0
+ AT: 2403392.0
+Sequence 282 : genomes/f_72407.1744.fna.fasta
+f_72407.1744.fna.fasta
+Length:   5877069 bps
+ GC: 3345393.0
+ AT: 2530436.0
+Sequence 283 : genomes/F87_assembly.fasta
+F87_assembly.fasta
+Length:   5440722 bps
+ GC: 3123640.0
+ AT: 2316152.0
+Sequence 284 : genomes/f_72407.1758.fna.fasta
+f_72407.1758.fna.fasta
+Length:   5621537 bps
+ GC: 3223270.0
+ AT: 2397337.0
+Sequence 285 : genomes/f_72407.1746.fna.fasta
+f_72407.1746.fna.fasta
+Length:   5846357 bps
+ GC: 3333841.0
+ AT: 2510966.0
+Sequence 286 : genomes/f_72407.1749.fna.fasta
+f_72407.1749.fna.fasta
+Length:   5976727 bps
+ GC: 3397807.0
+ AT: 2577370.0
+Sequence 287 : genomes/f_72407.1747.fna.fasta
+f_72407.1747.fna.fasta
+Length:   6010146 bps
+ GC: 3423926.0
+ AT: 2584670.0
+Sequence 288 : genomes/f_72407.1748.fna.fasta
+f_72407.1748.fna.fasta
+Length:   5920683 bps
+ GC: 3369468.0
+ AT: 2549665.0
+Sequence 289 : genomes/f_72407.1985.fna.fasta
+f_72407.1985.fna.fasta
+Length:   5836713 bps
+ GC: 3331906.0
+ AT: 2503567.0
+Sequence 290 : genomes/f_72407.2009.fna.fasta
+f_72407.2009.fna.fasta
+Length:   5654767 bps
+ GC: 3230986.0
+ AT: 2422541.0
+Sequence 291 : genomes/F88_assembly.fasta
+F88_assembly.fasta
+Length:   5436876 bps
+ GC: 3121732.0
+ AT: 2314524.0
+Sequence 292 : genomes/f_72407.2008.fna.fasta
+f_72407.2008.fna.fasta
+Length:   5898013 bps
+ GC: 3356696.0
+ AT: 2539767.0
+Sequence 293 : genomes/f_72407.2019.fna.fasta
+f_72407.2019.fna.fasta
+Length:   5853898 bps
+ GC: 3348030.0
+ AT: 2504318.0
+Sequence 294 : genomes/f_573.43792.fna.fasta
+f_573.43792.fna.fasta
+Length:   5561392 bps
+ GC: 3189306.0
+ AT: 2371156.0
+Sequence 295 : genomes/f_72407.1743.fna.fasta
+f_72407.1743.fna.fasta
+Length:   5914747 bps
+ GC: 3368273.0
+ AT: 2544924.0
+Sequence 296 : genomes/f_573.43899.fna.fasta
+f_573.43899.fna.fasta
+Length:   5917264 bps
+ GC: 3369490.0
+ AT: 2546534.0
+Sequence 297 : genomes/f_573.44715.fna.fasta
+f_573.44715.fna.fasta
+Length:   5443983 bps
+ GC: 3121094.0
+ AT: 2322889.0
+Sequence 298 : genomes/f_72407.2004.fna.fasta
+f_72407.2004.fna.fasta
+Length:   5839334 bps
+ GC: 3333069.0
+ AT: 2505025.0
+Sequence 299 : genomes/f_573.45137.fna.fasta
+f_573.45137.fna.fasta
+Length:   5681373 bps
+ GC: 3245079.0
+ AT: 2435364.0
+Sequence 300 : genomes/f_573.50059.fna.fasta
+f_573.50059.fna.fasta
+Length:   5855668 bps
+ GC: 3333305.0
+ AT: 2521123.0
+d value:   300
+q value:   30
+
+Mum anchor size:   25.0
+Number of MUM anchors found:   12752
+Number of MUMs found:   1439
+Total MUMs found((Anchors+MUMs)-filtered):   12741
+
+Random MUM length:   1 
+Minimum Cluster length:   21
+Number of MUMs filtered:   1450
+Number of Clusters filtered:   1437
+
+Number of clusters created:   2090
+Average number of MUMs per cluster:   6 
+Average cluster length:   1469 bps
+Cluster coverage in sequence 1:   54.0%
+Cluster coverage in sequence 2:   54.7%
+Cluster coverage in sequence 3:   54.0%
+Cluster coverage in sequence 4:   56.6%
+Cluster coverage in sequence 5:   56.4%
+Cluster coverage in sequence 6:   56.4%
+Cluster coverage in sequence 7:   53.0%
+Cluster coverage in sequence 8:   55.3%
+Cluster coverage in sequence 9:   55.5%
+Cluster coverage in sequence 10:   52.2%
+Cluster coverage in sequence 11:   53.4%
+Cluster coverage in sequence 12:   56.3%
+Cluster coverage in sequence 13:   52.3%
+Cluster coverage in sequence 14:   52.9%
+Cluster coverage in sequence 15:   54.8%
+Cluster coverage in sequence 16:   56.3%
+Cluster coverage in sequence 17:   54.7%
+Cluster coverage in sequence 18:   51.5%
+Cluster coverage in sequence 19:   51.0%
+Cluster coverage in sequence 20:   52.9%
+Cluster coverage in sequence 21:   56.2%
+Cluster coverage in sequence 22:   56.1%
+Cluster coverage in sequence 23:   52.9%
+Cluster coverage in sequence 24:   51.6%
+Cluster coverage in sequence 25:   56.4%
+Cluster coverage in sequence 26:   52.0%
+Cluster coverage in sequence 27:   56.4%
+Cluster coverage in sequence 28:   50.1%
+Cluster coverage in sequence 29:   54.0%
+Cluster coverage in sequence 30:   57.3%
+Cluster coverage in sequence 31:   56.4%
+Cluster coverage in sequence 32:   50.3%
+Cluster coverage in sequence 33:   55.6%
+Cluster coverage in sequence 34:   56.4%
+Cluster coverage in sequence 35:   55.3%
+Cluster coverage in sequence 36:   54.8%
+Cluster coverage in sequence 37:   50.8%
+Cluster coverage in sequence 38:   52.2%
+Cluster coverage in sequence 39:   52.2%
+Cluster coverage in sequence 40:   52.3%
+Cluster coverage in sequence 41:   52.2%
+Cluster coverage in sequence 42:   52.3%
+Cluster coverage in sequence 43:   52.2%
+Cluster coverage in sequence 44:   52.2%
+Cluster coverage in sequence 45:   52.2%
+Cluster coverage in sequence 46:   52.2%
+Cluster coverage in sequence 47:   52.2%
+Cluster coverage in sequence 48:   55.1%
+Cluster coverage in sequence 49:   55.1%
+Cluster coverage in sequence 50:   55.1%
+Cluster coverage in sequence 51:   55.1%
+Cluster coverage in sequence 52:   55.1%
+Cluster coverage in sequence 53:   55.1%
+Cluster coverage in sequence 54:   54.7%
+Cluster coverage in sequence 55:   55.2%
+Cluster coverage in sequence 56:   55.3%
+Cluster coverage in sequence 57:   55.5%
+Cluster coverage in sequence 58:   53.6%
+Cluster coverage in sequence 59:   52.0%
+Cluster coverage in sequence 60:   52.1%
+Cluster coverage in sequence 61:   52.1%
+Cluster coverage in sequence 62:   52.4%
+Cluster coverage in sequence 63:   52.2%
+Cluster coverage in sequence 64:   52.1%
+Cluster coverage in sequence 65:   50.9%
+Cluster coverage in sequence 66:   52.6%
+Cluster coverage in sequence 67:   51.0%
+Cluster coverage in sequence 68:   51.8%
+Cluster coverage in sequence 69:   52.0%
+Cluster coverage in sequence 70:   51.5%
+Cluster coverage in sequence 71:   52.5%
+Cluster coverage in sequence 72:   52.7%
+Cluster coverage in sequence 73:   52.1%
+Cluster coverage in sequence 74:   55.3%
+Cluster coverage in sequence 75:   55.3%
+Cluster coverage in sequence 76:   53.7%
+Cluster coverage in sequence 77:   53.5%
+Cluster coverage in sequence 78:   51.4%
+Cluster coverage in sequence 79:   53.8%
+Cluster coverage in sequence 80:   54.6%
+Cluster coverage in sequence 81:   52.3%
+Cluster coverage in sequence 82:   54.5%
+Cluster coverage in sequence 83:   52.2%
+Cluster coverage in sequence 84:   52.3%
+Cluster coverage in sequence 85:   51.0%
+Cluster coverage in sequence 86:   57.7%
+Cluster coverage in sequence 87:   54.1%
+Cluster coverage in sequence 88:   54.9%
+Cluster coverage in sequence 89:   52.2%
+Cluster coverage in sequence 90:   53.5%
+Cluster coverage in sequence 91:   54.4%
+Cluster coverage in sequence 92:   51.4%
+Cluster coverage in sequence 93:   52.4%
+Cluster coverage in sequence 94:   52.4%
+Cluster coverage in sequence 95:   55.3%
+Cluster coverage in sequence 96:   54.2%
+Cluster coverage in sequence 97:   52.6%
+Cluster coverage in sequence 98:   52.1%
+Cluster coverage in sequence 99:   51.9%
+Cluster coverage in sequence 100:   52.4%
+Cluster coverage in sequence 101:   52.6%
+Cluster coverage in sequence 102:   51.1%
+Cluster coverage in sequence 103:   54.3%
+Cluster coverage in sequence 104:   52.8%
+Cluster coverage in sequence 105:   56.4%
+Cluster coverage in sequence 106:   53.4%
+Cluster coverage in sequence 107:   52.0%
+Cluster coverage in sequence 108:   52.4%
+Cluster coverage in sequence 109:   56.4%
+Cluster coverage in sequence 110:   51.9%
+Cluster coverage in sequence 111:   54.4%
+Cluster coverage in sequence 112:   50.4%
+Cluster coverage in sequence 113:   51.9%
+Cluster coverage in sequence 114:   52.6%
+Cluster coverage in sequence 115:   55.3%
+Cluster coverage in sequence 116:   51.0%
+Cluster coverage in sequence 117:   51.9%
+Cluster coverage in sequence 118:   51.5%
+Cluster coverage in sequence 119:   54.6%
+Cluster coverage in sequence 120:   52.2%
+Cluster coverage in sequence 121:   51.8%
+Cluster coverage in sequence 122:   52.6%
+Cluster coverage in sequence 123:   53.1%
+Cluster coverage in sequence 124:   53.5%
+Cluster coverage in sequence 125:   50.7%
+Cluster coverage in sequence 126:   51.5%
+Cluster coverage in sequence 127:   52.7%
+Cluster coverage in sequence 128:   51.4%
+Cluster coverage in sequence 129:   56.3%
+Cluster coverage in sequence 130:   52.2%
+Cluster coverage in sequence 131:   51.7%
+Cluster coverage in sequence 132:   55.0%
+Cluster coverage in sequence 133:   52.0%
+Cluster coverage in sequence 134:   52.1%
+Cluster coverage in sequence 135:   55.3%
+Cluster coverage in sequence 136:   55.8%
+Cluster coverage in sequence 137:   52.0%
+Cluster coverage in sequence 138:   55.1%
+Cluster coverage in sequence 139:   57.5%
+Cluster coverage in sequence 140:   55.8%
+Cluster coverage in sequence 141:   51.8%
+Cluster coverage in sequence 142:   51.7%
+Cluster coverage in sequence 143:   54.1%
+Cluster coverage in sequence 144:   52.0%
+Cluster coverage in sequence 145:   52.0%
+Cluster coverage in sequence 146:   53.1%
+Cluster coverage in sequence 147:   53.9%
+Cluster coverage in sequence 148:   53.7%
+Cluster coverage in sequence 149:   52.4%
+Cluster coverage in sequence 150:   54.4%
+Cluster coverage in sequence 151:   56.2%
+Cluster coverage in sequence 152:   52.9%
+Cluster coverage in sequence 153:   54.1%
+Cluster coverage in sequence 154:   51.7%
+Cluster coverage in sequence 155:   54.4%
+Cluster coverage in sequence 156:   53.5%
+Cluster coverage in sequence 157:   51.8%
+Cluster coverage in sequence 158:   55.7%
+Cluster coverage in sequence 159:   54.6%
+Cluster coverage in sequence 160:   52.7%
+Cluster coverage in sequence 161:   57.1%
+Cluster coverage in sequence 162:   53.6%
+Cluster coverage in sequence 163:   52.4%
+Cluster coverage in sequence 164:   53.6%
+Cluster coverage in sequence 165:   52.1%
+Cluster coverage in sequence 166:   51.9%
+Cluster coverage in sequence 167:   54.4%
+Cluster coverage in sequence 168:   50.6%
+Cluster coverage in sequence 169:   52.9%
+Cluster coverage in sequence 170:   52.5%
+Cluster coverage in sequence 171:   53.2%
+Cluster coverage in sequence 172:   54.5%
+Cluster coverage in sequence 173:   53.3%
+Cluster coverage in sequence 174:   55.7%
+Cluster coverage in sequence 175:   54.4%
+Cluster coverage in sequence 176:   52.2%
+Cluster coverage in sequence 177:   54.4%
+Cluster coverage in sequence 178:   51.1%
+Cluster coverage in sequence 179:   53.4%
+Cluster coverage in sequence 180:   51.3%
+Cluster coverage in sequence 181:   51.2%
+Cluster coverage in sequence 182:   51.5%
+Cluster coverage in sequence 183:   52.9%
+Cluster coverage in sequence 184:   52.8%
+Cluster coverage in sequence 185:   54.6%
+Cluster coverage in sequence 186:   50.6%
+Cluster coverage in sequence 187:   57.2%
+Cluster coverage in sequence 188:   54.0%
+Cluster coverage in sequence 189:   51.4%
+Cluster coverage in sequence 190:   51.1%
+Cluster coverage in sequence 191:   52.2%
+Cluster coverage in sequence 192:   52.5%
+Cluster coverage in sequence 193:   55.0%
+Cluster coverage in sequence 194:   53.4%
+Cluster coverage in sequence 195:   56.4%
+Cluster coverage in sequence 196:   55.7%
+Cluster coverage in sequence 197:   51.7%
+Cluster coverage in sequence 198:   53.6%
+Cluster coverage in sequence 199:   51.6%
+Cluster coverage in sequence 200:   54.3%
+Cluster coverage in sequence 201:   52.3%
+Cluster coverage in sequence 202:   54.4%
+Cluster coverage in sequence 203:   54.5%
+Cluster coverage in sequence 204:   56.5%
+Cluster coverage in sequence 205:   55.1%
+Cluster coverage in sequence 206:   55.3%
+Cluster coverage in sequence 207:   52.1%
+Cluster coverage in sequence 208:   52.9%
+Cluster coverage in sequence 209:   53.5%
+Cluster coverage in sequence 210:   52.1%
+Cluster coverage in sequence 211:   52.7%
+Cluster coverage in sequence 212:   52.3%
+Cluster coverage in sequence 213:   52.4%
+Cluster coverage in sequence 214:   51.3%
+Cluster coverage in sequence 215:   50.9%
+Cluster coverage in sequence 216:   52.1%
+Cluster coverage in sequence 217:   53.5%
+Cluster coverage in sequence 218:   50.6%
+Cluster coverage in sequence 219:   53.5%
+Cluster coverage in sequence 220:   52.8%
+Cluster coverage in sequence 221:   56.9%
+Cluster coverage in sequence 222:   50.6%
+Cluster coverage in sequence 223:   52.8%
+Cluster coverage in sequence 224:   55.4%
+Cluster coverage in sequence 225:   57.3%
+Cluster coverage in sequence 226:   50.1%
+Cluster coverage in sequence 227:   52.3%
+Cluster coverage in sequence 228:   50.2%
+Cluster coverage in sequence 229:   54.6%
+Cluster coverage in sequence 230:   52.5%
+Cluster coverage in sequence 231:   53.2%
+Cluster coverage in sequence 232:   52.4%
+Cluster coverage in sequence 233:   54.6%
+Cluster coverage in sequence 234:   52.1%
+Cluster coverage in sequence 235:   52.0%
+Cluster coverage in sequence 236:   54.6%
+Cluster coverage in sequence 237:   50.9%
+Cluster coverage in sequence 238:   54.9%
+Cluster coverage in sequence 239:   51.3%
+Cluster coverage in sequence 240:   54.5%
+Cluster coverage in sequence 241:   51.3%
+Cluster coverage in sequence 242:   54.6%
+Cluster coverage in sequence 243:   54.6%
+Cluster coverage in sequence 244:   54.0%
+Cluster coverage in sequence 245:   52.7%
+Cluster coverage in sequence 246:   54.6%
+Cluster coverage in sequence 247:   55.1%
+Cluster coverage in sequence 248:   52.5%
+Cluster coverage in sequence 249:   53.9%
+Cluster coverage in sequence 250:   53.2%
+Cluster coverage in sequence 251:   52.2%
+Cluster coverage in sequence 252:   53.5%
+Cluster coverage in sequence 253:   53.5%
+Cluster coverage in sequence 254:   54.0%
+Cluster coverage in sequence 255:   55.6%
+Cluster coverage in sequence 256:   53.0%
+Cluster coverage in sequence 257:   52.7%
+Cluster coverage in sequence 258:   52.6%
+Cluster coverage in sequence 259:   53.5%
+Cluster coverage in sequence 260:   52.6%
+Cluster coverage in sequence 261:   52.6%
+Cluster coverage in sequence 262:   54.0%
+Cluster coverage in sequence 263:   52.6%
+Cluster coverage in sequence 264:   54.6%
+Cluster coverage in sequence 265:   52.8%
+Cluster coverage in sequence 266:   53.2%
+Cluster coverage in sequence 267:   52.7%
+Cluster coverage in sequence 268:   54.3%
+Cluster coverage in sequence 269:   52.5%
+Cluster coverage in sequence 270:   52.3%
+Cluster coverage in sequence 271:   52.0%
+Cluster coverage in sequence 272:   53.1%
+Cluster coverage in sequence 273:   54.2%
+Cluster coverage in sequence 274:   53.9%
+Cluster coverage in sequence 275:   54.4%
+Cluster coverage in sequence 276:   53.1%
+Cluster coverage in sequence 277:   52.5%
+Cluster coverage in sequence 278:   50.3%
+Cluster coverage in sequence 279:   51.8%
+Cluster coverage in sequence 280:   50.4%
+Cluster coverage in sequence 281:   54.6%
+Cluster coverage in sequence 282:   52.3%
+Cluster coverage in sequence 283:   56.4%
+Cluster coverage in sequence 284:   54.6%
+Cluster coverage in sequence 285:   52.5%
+Cluster coverage in sequence 286:   51.4%
+Cluster coverage in sequence 287:   51.1%
+Cluster coverage in sequence 288:   51.9%
+Cluster coverage in sequence 289:   52.6%
+Cluster coverage in sequence 290:   54.3%
+Cluster coverage in sequence 291:   56.5%
+Cluster coverage in sequence 292:   52.1%
+Cluster coverage in sequence 293:   52.5%
+Cluster coverage in sequence 294:   55.2%
+Cluster coverage in sequence 295:   51.9%
+Cluster coverage in sequence 296:   51.9%
+Cluster coverage in sequence 297:   56.4%
+Cluster coverage in sequence 298:   52.6%
+Cluster coverage in sequence 299:   54.1%
+Cluster coverage in sequence 300:   52.4%
+Total coverage among all sequences:   53.3%
+
+ MUM anchor search elapsed time:   1038.0s 
+ MUM coarsening elapsed time:   97.0s 
+ MUM filtering elapsed time:   0.0s 
+ MUM clustering elapsed time:   0.0s 
+ Inter-clustering elapsed time:   49.0s 
+ Total running time:   1184.0s 
