@@ -3,7 +3,7 @@ library(stringr)
 library(ggplot2)
 library(viridis)
 
-setwd("/mnt/raid2tb/bubble/tesis/capitulo1/fig4")
+setwd("./")
 
 df <- read.csv("nano_card_out.tsv", sep = "\t", header = T)
 head(df)
@@ -123,8 +123,6 @@ head(ss)
 d <- as.data.frame(rbind(list, list2))
 head(d)
 
-
-
 figp <- ggplot(d, aes(sample, GENE, fill = n)) + 
   geom_tile(colour = "gray50") +
   scale_alpha_identity(guide = "none") +
@@ -144,6 +142,8 @@ figp
 png("./figures/plasmid.png", res = 600, height = 25, width = 30, units = "cm")
 figp
 dev.off()
+
+
 
 library(ggpubr)
 
