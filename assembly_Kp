@@ -1,0 +1,76 @@
+################################################################
+##################HYBRID ASSEMBLY###############################
+################################################################
+
+cd PATH/to/data
+
+#$NAME = name of the each sample
+
+###Illumina reads
+
+conda activate trimmomatic
+trimmomatic PE $NAME_R1.flt.fastq $NAME_R2.flt.fastq P1.fastq U1.fastq P2.fastq U2.fastq LEADING:20 TRAILING:20 SLIDINGWINDOW:5:20 AVGQUAL:20 MINLEN:100 ILLUMINACLIP:illumina_adapters.fa:2:30:10
+conda activate fastqc
+for i in *.fastq; do echo $i; fastqc $i; done
+
+
+###Nanopore reads
+conda activate nanofilt
+for i in *.fastq; do echo $i; NanoFilt -q 8 -l 500 $i > filtered/filt_$i; done
+cd filtered/
+for i in *.fastq; do echo $i; NanoPlot --fastq $i -o nanoplot_$i; done
+
+###Assembly
+#move files from each sample to the same directory
+conda activate unicycler
+unicycler -1 P1.fastq -2 P2.fastq -l filt_$NAME.fastq -o unicycler_$NAME -t 32
+
+#Add prefix to each assembly output
+for f in * ; do mv -- "$f" "$NAME_$f" ; done
+mkdir contigs
+mv *.fasta contigs
+cd contigs
+conda activate emboss
+for f in *.fasta; do sed -i "s/^>/>${f}_/" "$f"; done
+seqretsplit *_assembly.fasta
+
+###QC
+conda activate csalazar_quast 
+for i in *.fasta; do echo $i; quast $i --output-dir quast_$i; done
+
+
+#####MLST
+conda activate mlst
+for i in *.fasta; do echo $i; mlst $i >> mlst.tsv; done
+
+
+###AMR genes, virulence genes and plasmids
+conda activate abricate
+
+abricate --db card all_samples.fasta > card.tsv
+abricate --db plasmidfinder all_samples.fasta > plasmidfinder.tsv
+abricate --db vfdb all_samples.fasta > vfdb.tsv
+
+
+
+##################################
+#####LONG READ ASSEMBLY ONT#######
+##################################
+cd PATH/to/nanopore_data/filtered
+
+for i in *.fastq; do echo $i; flye --nano-raw $i -i 2 -o flye_$i -t 32; done
+
+
+#Add prefix to each assembly output
+for f in * ; do mv -- "$f" "$NAME_$f" ; done
+mkdir contigs
+mv *.fasta contigs
+cd contigs
+conda activate emboss
+for f in *.fasta; do sed -i "s/^>/>${f}_/" "$f"; done
+seqretsplit *.fasta
+
+
+###QC
+conda activate csalazar_quast 
+for i in *.fasta; do echo $i; quast $i --output-dir quast_$i; done
