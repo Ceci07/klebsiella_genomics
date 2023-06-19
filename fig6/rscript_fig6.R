@@ -3,7 +3,7 @@ library(gggenes)
 library(stringr)
 library(tidyverse)
 
-setwd("/mnt/raid2tb/bubble/tesis/capitulo1/fig6")
+setwd("./")
 
 df1 <- read.csv("all_samp.tsv", sep = "\t", header = T)
 head(df1)
