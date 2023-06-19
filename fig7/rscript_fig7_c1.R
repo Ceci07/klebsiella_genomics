@@ -13,7 +13,7 @@ library(viridis)
 
 setwd("./P_2023_05_28_213813753074/")
 tree <- read.newick(file = "parsnp.tree")
-df <- read.csv("/home/csalazar/Descargas/genomes_kp/patric3/BVBRC_genome.csv", header = T)
+df <- read.csv("./BVBRC_genome.csv", header = T)
 
 
 tre <- read.newick(file = "parsnp.tree")
