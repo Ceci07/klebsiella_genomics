@@ -11,7 +11,7 @@ library(RColorBrewer)
 library(viridis)
 
 
-setwd("/mnt/raid2tb/bubble/tesis/capitulo1/fig7/st11_patric3/P_2023_05_28_213813753074/")
+setwd("./P_2023_05_28_213813753074/")
 tree <- read.newick(file = "parsnp.tree")
 df <- read.csv("/home/csalazar/Descargas/genomes_kp/patric3/BVBRC_genome.csv", header = T)
 
