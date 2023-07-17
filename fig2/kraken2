@@ -1,0 +1,2 @@
+#kraken2 command
+for i in filt_F*.fastq; do echo $i; kraken2 --db PATH_TO/kraken2/ --report report_$i --output out_$i -t 32 $i; done
